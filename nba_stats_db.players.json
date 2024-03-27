@@ -1,0 +1,7387 @@
+[{
+  "_id": {
+    "$oid": "6600b52028d0191137367a72"
+  },
+  "playerId": "1628369",
+  "name": "Jayson Tatum",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "27.1",
+    "RPG": "8.2",
+    "APG": "4.9",
+    "PIE": "15.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52028d0191137367a74"
+  },
+  "playerId": "201950",
+  "name": "Jrue Holiday",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "12.8",
+    "RPG": "5.4",
+    "APG": "4.9",
+    "PIE": "10.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52128d0191137367a76"
+  },
+  "playerId": "1627759",
+  "name": "Jaylen Brown",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "23.4",
+    "RPG": "5.6",
+    "APG": "3.6",
+    "PIE": "11.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52128d0191137367a78"
+  },
+  "playerId": "204001",
+  "name": "Kristaps Porzingis",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "20.3",
+    "RPG": "6.9",
+    "APG": "1.9",
+    "PIE": "13.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52328d0191137367a7a"
+  },
+  "playerId": "1628401",
+  "name": "Derrick White",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "15.4",
+    "RPG": "4.3",
+    "APG": "5.2",
+    "PIE": "10.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52428d0191137367a7c"
+  },
+  "playerId": "1630202",
+  "name": "Payton Pritchard",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "8.7",
+    "RPG": "3.2",
+    "APG": "3.1",
+    "PIE": "9.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52628d0191137367a7e"
+  },
+  "playerId": "1629052",
+  "name": "Oshae Brissett",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "2.9",
+    "APG": "0.8",
+    "PIE": "7.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52628d0191137367a80"
+  },
+  "playerId": "1641809",
+  "name": "Drew Peterson",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "3.0",
+    "RPG": "--",
+    "APG": "1.0",
+    "PIE": "20.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52728d0191137367a82"
+  },
+  "playerId": "1631120",
+  "name": "JD Davison",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "1.3",
+    "RPG": "0.5",
+    "APG": "0.2",
+    "PIE": "24.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52828d0191137367a84"
+  },
+  "playerId": "1630214",
+  "name": "Xavier Tillman",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "5.4",
+    "RPG": "4.3",
+    "APG": "1.5",
+    "PIE": "7.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52928d0191137367a86"
+  },
+  "playerId": "1641775",
+  "name": "Jordan Walsh",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "2.2",
+    "APG": "0.7",
+    "PIE": "6.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52a28d0191137367a88"
+  },
+  "playerId": "1630573",
+  "name": "Sam Hauser",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "8.7",
+    "RPG": "3.4",
+    "APG": "0.9",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52a28d0191137367a8a"
+  },
+  "playerId": "1628436",
+  "name": "Luke Kornet",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "5.2",
+    "RPG": "4.2",
+    "APG": "1.0",
+    "PIE": "10.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52b28d0191137367a8c"
+  },
+  "playerId": "201143",
+  "name": "Al Horford",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "8.5",
+    "RPG": "6.5",
+    "APG": "2.7",
+    "PIE": "10.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52c28d0191137367a8e"
+  },
+  "playerId": "1630531",
+  "name": "Jaden Springer",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "3.2",
+    "RPG": "1.5",
+    "APG": "0.9",
+    "PIE": "4.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52d28d0191137367a90"
+  },
+  "playerId": "1629004",
+  "name": "Svi Mykhailiuk",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "3.1",
+    "RPG": "1.1",
+    "APG": "0.6",
+    "PIE": "6.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52e28d0191137367a92"
+  },
+  "playerId": "1629674",
+  "name": "Neemias Queta",
+  "team": "Boston Celtics",
+  "stats": {
+    "PPG": "4.6",
+    "RPG": "4.1",
+    "APG": "0.5",
+    "PIE": "10.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52e28d0191137367a94"
+  },
+  "playerId": "1641727",
+  "name": "Dariq Whitehead",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "1.5",
+    "RPG": "2.0",
+    "APG": "1.5",
+    "PIE": "3.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52f28d0191137367a96"
+  },
+  "playerId": "1628969",
+  "name": "Mikal Bridges",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "20.5",
+    "RPG": "4.8",
+    "APG": "3.7",
+    "PIE": "10.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b52f28d0191137367a98"
+  },
+  "playerId": "1629661",
+  "name": "Cameron Johnson",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "13.7",
+    "RPG": "4.4",
+    "APG": "2.5",
+    "PIE": "9.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53028d0191137367a9a"
+  },
+  "playerId": "1628372",
+  "name": "Dennis Smith Jr.",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "6.7",
+    "RPG": "3.0",
+    "APG": "3.7",
+    "PIE": "9.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53128d0191137367a9c"
+  },
+  "playerId": "1629022",
+  "name": "Lonnie Walker IV",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "10.2",
+    "RPG": "2.1",
+    "APG": "1.3",
+    "PIE": "9.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53128d0191137367a9e"
+  },
+  "playerId": "1630570",
+  "name": "Trendon Watford",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "5.6",
+    "RPG": "2.5",
+    "APG": "1.1",
+    "PIE": "10.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53428d0191137367aa0"
+  },
+  "playerId": "1627732",
+  "name": "Ben Simmons",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "6.1",
+    "RPG": "7.9",
+    "APG": "5.7",
+    "PIE": "11.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53428d0191137367aa2"
+  },
+  "playerId": "1628966",
+  "name": "Keita Bates-Diop",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "2.1",
+    "APG": "0.7",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53528d0191137367aa4"
+  },
+  "playerId": "1631367",
+  "name": "Jacob Gilyard",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "4.7",
+    "RPG": "1.2",
+    "APG": "3.5",
+    "PIE": "8.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53628d0191137367aa6"
+  },
+  "playerId": "1641798",
+  "name": "Jaylen Martin",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "--",
+    "RPG": "--",
+    "APG": "--"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53628d0191137367aa8"
+  },
+  "playerId": "203471",
+  "name": "Dennis Schroder",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "13.7",
+    "RPG": "2.8",
+    "APG": "6.0",
+    "PIE": "9.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53728d0191137367aaa"
+  },
+  "playerId": "1630549",
+  "name": "Day'Ron Sharpe",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "7.2",
+    "RPG": "6.6",
+    "APG": "1.5",
+    "PIE": "13.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53828d0191137367aac"
+  },
+  "playerId": "1641730",
+  "name": "Noah Clowney",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "2.8",
+    "RPG": "1.7",
+    "APG": "0.8",
+    "PIE": "8.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53828d0191137367aae"
+  },
+  "playerId": "1630592",
+  "name": "Jalen Wilson",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "4.4",
+    "RPG": "2.6",
+    "APG": "1.1",
+    "PIE": "7.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53928d0191137367ab0"
+  },
+  "playerId": "1630560",
+  "name": "Cam Thomas",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "21.5",
+    "RPG": "3.2",
+    "APG": "2.8",
+    "PIE": "10.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53a28d0191137367ab2"
+  },
+  "playerId": "1627827",
+  "name": "Dorian Finney-Smith",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "8.7",
+    "RPG": "4.7",
+    "APG": "1.6",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53a28d0191137367ab4"
+  },
+  "playerId": "1629651",
+  "name": "Nic Claxton",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "12.1",
+    "RPG": "9.7",
+    "APG": "2.0",
+    "PIE": "13.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53b28d0191137367ab6"
+  },
+  "playerId": "1630553",
+  "name": "Keon Johnson",
+  "team": "Brooklyn Nets",
+  "stats": {
+    "PPG": "7.0",
+    "RPG": "1.3",
+    "APG": "0.8",
+    "PIE": "6.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53c28d0191137367ab8"
+  },
+  "playerId": "1628978",
+  "name": "Donte DiVincenzo",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "14.5",
+    "RPG": "3.5",
+    "APG": "2.6",
+    "PIE": "9.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53c28d0191137367aba"
+  },
+  "playerId": "1631210",
+  "name": "Jacob Toppin",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "1.4",
+    "RPG": "0.8",
+    "APG": "0.3",
+    "PIE": "9.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53d28d0191137367abc"
+  },
+  "playerId": "1630613",
+  "name": "Duane Washington Jr.",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "7.9",
+    "RPG": "1.2",
+    "APG": "2.0",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53e28d0191137367abe"
+  },
+  "playerId": "1630540",
+  "name": "Miles McBride",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "7.3",
+    "RPG": "1.2",
+    "APG": "1.4",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53e28d0191137367ac0"
+  },
+  "playerId": "1628404",
+  "name": "Josh Hart",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "8.9",
+    "RPG": "8.1",
+    "APG": "3.7",
+    "PIE": "9.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b53f28d0191137367ac2"
+  },
+  "playerId": "1629718",
+  "name": "Charlie Brown Jr.",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "0.8",
+    "RPG": "0.3",
+    "APG": "--",
+    "PIE": "-4.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54128d0191137367ac4"
+  },
+  "playerId": "1630173",
+  "name": "Precious Achiuwa",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "8.1",
+    "RPG": "6.7",
+    "APG": "1.4",
+    "PIE": "9.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54128d0191137367ac6"
+  },
+  "playerId": "1628384",
+  "name": "OG Anunoby",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "14.9",
+    "RPG": "4.3",
+    "APG": "2.3",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54228d0191137367ac8"
+  },
+  "playerId": "1628973",
+  "name": "Jalen Brunson",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "27.4",
+    "RPG": "3.6",
+    "APG": "6.5",
+    "PIE": "14.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54328d0191137367aca"
+  },
+  "playerId": "1629003",
+  "name": "Shake Milton",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "4.7",
+    "RPG": "1.6",
+    "APG": "1.3",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54428d0191137367acc"
+  },
+  "playerId": "202692",
+  "name": "Alec Burks",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "11.1",
+    "RPG": "2.3",
+    "APG": "1.4",
+    "PIE": "8.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54528d0191137367ace"
+  },
+  "playerId": "1629011",
+  "name": "Mitchell Robinson",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "6.2",
+    "RPG": "10.3",
+    "APG": "0.7",
+    "PIE": "8.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54528d0191137367ad0"
+  },
+  "playerId": "203944",
+  "name": "Julius Randle",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "24.0",
+    "RPG": "9.2",
+    "APG": "5.0",
+    "PIE": "13.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54628d0191137367ad2"
+  },
+  "playerId": "202711",
+  "name": "Bojan Bogdanovic",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "16.4",
+    "RPG": "3.0",
+    "APG": "2.0",
+    "PIE": "8.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54628d0191137367ad4"
+  },
+  "playerId": "1630579",
+  "name": "Jericho Sims",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "2.2",
+    "RPG": "3.4",
+    "APG": "0.6",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54728d0191137367ad6"
+  },
+  "playerId": "1628392",
+  "name": "Isaiah Hartenstein",
+  "team": "New York Knicks",
+  "stats": {
+    "PPG": "7.3",
+    "RPG": "8.5",
+    "APG": "2.2",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54828d0191137367ad8"
+  },
+  "playerId": "1630178",
+  "name": "Tyrese Maxey",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "25.7",
+    "RPG": "3.6",
+    "APG": "6.2",
+    "PIE": "12.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54928d0191137367ada"
+  },
+  "playerId": "1630231",
+  "name": "KJ Martin",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "3.6",
+    "RPG": "2.0",
+    "APG": "0.8",
+    "PIE": "5.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54a28d0191137367adc"
+  },
+  "playerId": "1628964",
+  "name": "Mo Bamba",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "4.0",
+    "APG": "0.8",
+    "PIE": "9.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54a28d0191137367ade"
+  },
+  "playerId": "200768",
+  "name": "Kyle Lowry",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "8.2",
+    "RPG": "3.4",
+    "APG": "4.2",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54b28d0191137367ae0"
+  },
+  "playerId": "1629001",
+  "name": "De'Anthony Melton",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "11.5",
+    "RPG": "3.8",
+    "APG": "3.1",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54c28d0191137367ae2"
+  },
+  "playerId": "1626162",
+  "name": "Kelly Oubre Jr.",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "14.9",
+    "RPG": "4.7",
+    "APG": "1.4",
+    "PIE": "7.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54c28d0191137367ae4"
+  },
+  "playerId": "1630288",
+  "name": "Jeff Dowtin Jr.",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "5.2",
+    "RPG": "1.7",
+    "APG": "2.7",
+    "PIE": "14.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54d28d0191137367ae6"
+  },
+  "playerId": "202699",
+  "name": "Tobias Harris",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "17.2",
+    "RPG": "6.3",
+    "APG": "3.2",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54d28d0191137367ae8"
+  },
+  "playerId": "1641741",
+  "name": "Ricky Council IV",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "5.8",
+    "RPG": "1.6",
+    "APG": "0.4",
+    "PIE": "11.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54e28d0191137367aea"
+  },
+  "playerId": "1627741",
+  "name": "Buddy Hield",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "12.3",
+    "RPG": "3.2",
+    "APG": "3.0",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54e28d0191137367aec"
+  },
+  "playerId": "203954",
+  "name": "Joel Embiid",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "35.3",
+    "RPG": "11.3",
+    "APG": "5.7",
+    "PIE": "22.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b54f28d0191137367aee"
+  },
+  "playerId": "1626166",
+  "name": "Cameron Payne",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "7.5",
+    "RPG": "1.4",
+    "APG": "2.6",
+    "PIE": "8.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55028d0191137367af0"
+  },
+  "playerId": "1631173",
+  "name": "Terquavion Smith",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "3.8",
+    "RPG": "0.2",
+    "APG": "0.8",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55128d0191137367af2"
+  },
+  "playerId": "203496",
+  "name": "Robert Covington",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "4.4",
+    "RPG": "3.3",
+    "APG": "0.8",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55128d0191137367af4"
+  },
+  "playerId": "201587",
+  "name": "Nicolas Batum",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "5.1",
+    "RPG": "4.1",
+    "APG": "2.1",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55228d0191137367af6"
+  },
+  "playerId": "1630194",
+  "name": "Paul Reed",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "7.1",
+    "RPG": "5.8",
+    "APG": "1.3",
+    "PIE": "10.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55328d0191137367af8"
+  },
+  "playerId": "1630539",
+  "name": "Kai Jones",
+  "team": "Philadelphia 76ers",
+  "stats": {
+    "PPG": "3.4",
+    "RPG": "2.7",
+    "APG": "0.3",
+    "PIE": "7.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55428d0191137367afa"
+  },
+  "playerId": "1631241",
+  "name": "Javon Freeman-Liberty",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "4.0",
+    "RPG": "2.2",
+    "APG": "1.4",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55428d0191137367afc"
+  },
+  "playerId": "1641711",
+  "name": "Gradey Dick",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "7.4",
+    "RPG": "2.0",
+    "APG": "1.3",
+    "PIE": "5.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55728d0191137367afe"
+  },
+  "playerId": "1629667",
+  "name": "Jalen McDaniels",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "3.0",
+    "RPG": "1.5",
+    "APG": "0.6",
+    "PIE": "4.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55828d0191137367b00"
+  },
+  "playerId": "1630618",
+  "name": "D.J. Carton",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "2.8",
+    "RPG": "1.0",
+    "APG": "0.8",
+    "PIE": "6.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55828d0191137367b02"
+  },
+  "playerId": "1630567",
+  "name": "Scottie Barnes",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "19.9",
+    "RPG": "8.2",
+    "APG": "6.1",
+    "PIE": "13.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55928d0191137367b04"
+  },
+  "playerId": "1630193",
+  "name": "Immanuel Quickley",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "16.4",
+    "RPG": "3.6",
+    "APG": "4.6",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55a28d0191137367b06"
+  },
+  "playerId": "1629628",
+  "name": "RJ Barrett",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "19.5",
+    "RPG": "5.3",
+    "APG": "3.2",
+    "PIE": "10.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55b28d0191137367b08"
+  },
+  "playerId": "1628971",
+  "name": "Bruce Brown",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "10.9",
+    "RPG": "4.5",
+    "APG": "2.9",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55c28d0191137367b0a"
+  },
+  "playerId": "1629670",
+  "name": "Jordan Nwora",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "6.5",
+    "RPG": "2.4",
+    "APG": "1.0",
+    "PIE": "10.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55d28d0191137367b0c"
+  },
+  "playerId": "1631338",
+  "name": "Mouhamadou Gueye",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "1.4",
+    "RPG": "1.4",
+    "APG": "--",
+    "PIE": "-3.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55f28d0191137367b0e"
+  },
+  "playerId": "1627751",
+  "name": "Jakob Poeltl",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "11.1",
+    "RPG": "8.6",
+    "APG": "2.5",
+    "PIE": "11.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b55f28d0191137367b10"
+  },
+  "playerId": "1628449",
+  "name": "Chris Boucher",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "6.4",
+    "RPG": "4.1",
+    "APG": "0.5",
+    "PIE": "10.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56028d0191137367b12"
+  },
+  "playerId": "1630534",
+  "name": "Ochai Agbaji",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "5.8",
+    "RPG": "2.7",
+    "APG": "1.0",
+    "PIE": "4.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56128d0191137367b14"
+  },
+  "playerId": "1629018",
+  "name": "Gary Trent Jr.",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "13.1",
+    "RPG": "2.6",
+    "APG": "1.5",
+    "PIE": "7.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56228d0191137367b16"
+  },
+  "playerId": "1629007",
+  "name": "Jontay Porter",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "4.4",
+    "RPG": "3.2",
+    "APG": "2.3",
+    "PIE": "9.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56328d0191137367b18"
+  },
+  "playerId": "203482",
+  "name": "Kelly Olynyk",
+  "team": "Toronto Raptors",
+  "stats": {
+    "PPG": "9.2",
+    "RPG": "5.0",
+    "APG": "4.3",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56328d0191137367b1a"
+  },
+  "playerId": "1641847",
+  "name": "Andrew Funk",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "--",
+    "RPG": "--",
+    "APG": "--",
+    "PIE": "-11.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56428d0191137367b1c"
+  },
+  "playerId": "1629632",
+  "name": "Coby White",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "19.3",
+    "RPG": "4.7",
+    "APG": "5.3",
+    "PIE": "10.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56528d0191137367b1e"
+  },
+  "playerId": "1628366",
+  "name": "Lonzo Ball",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "13.0",
+    "RPG": "5.4",
+    "APG": "5.1",
+    "PIE": "9.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56628d0191137367b20"
+  },
+  "playerId": "203083",
+  "name": "Andre Drummond",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "8.3",
+    "RPG": "8.7",
+    "APG": "0.5",
+    "PIE": "14.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56628d0191137367b22"
+  },
+  "playerId": "1628975",
+  "name": "Jevon Carter",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "4.9",
+    "RPG": "0.8",
+    "APG": "1.2",
+    "PIE": "5.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56828d0191137367b24"
+  },
+  "playerId": "1627936",
+  "name": "Alex Caruso",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "10.0",
+    "RPG": "3.7",
+    "APG": "3.1",
+    "PIE": "8.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56828d0191137367b26"
+  },
+  "playerId": "203897",
+  "name": "Zach LaVine",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "19.5",
+    "RPG": "5.2",
+    "APG": "3.9",
+    "PIE": "11.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56928d0191137367b28"
+  },
+  "playerId": "202696",
+  "name": "Nikola Vucevic",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "18.1",
+    "RPG": "10.5",
+    "APG": "3.3",
+    "PIE": "12.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56a28d0191137367b2a"
+  },
+  "playerId": "201942",
+  "name": "DeMar DeRozan",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "23.2",
+    "RPG": "4.3",
+    "APG": "5.3",
+    "PIE": "12.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56b28d0191137367b2c"
+  },
+  "playerId": "1630245",
+  "name": "Ayo Dosunmu",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "11.8",
+    "RPG": "2.8",
+    "APG": "3.1",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56b28d0191137367b2e"
+  },
+  "playerId": "1628470",
+  "name": "Torrey Craig",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "6.2",
+    "RPG": "4.3",
+    "APG": "1.2",
+    "PIE": "6.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56c28d0191137367b30"
+  },
+  "playerId": "1641763",
+  "name": "Julian Phillips",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "2.2",
+    "RPG": "0.9",
+    "APG": "0.3",
+    "PIE": "3.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56d28d0191137367b32"
+  },
+  "playerId": "1641931",
+  "name": "Onuralp Bitim",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "4.5",
+    "RPG": "1.9",
+    "APG": "0.7",
+    "PIE": "5.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56e28d0191137367b34"
+  },
+  "playerId": "1641766",
+  "name": "Adama Sanogo",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "2.5",
+    "RPG": "1.8",
+    "APG": "--",
+    "PIE": "112.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b56e28d0191137367b36"
+  },
+  "playerId": "1629750",
+  "name": "Javonte Green",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "5.2",
+    "RPG": "2.8",
+    "APG": "0.7",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57028d0191137367b38"
+  },
+  "playerId": "1631207",
+  "name": "Dalen Terry",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "2.8",
+    "RPG": "1.8",
+    "APG": "1.3",
+    "PIE": "6.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57128d0191137367b3a"
+  },
+  "playerId": "1630678",
+  "name": "Terry Taylor",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "1.5",
+    "RPG": "1.3",
+    "APG": "0.3",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57228d0191137367b3c"
+  },
+  "playerId": "1630172",
+  "name": "Patrick Williams",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "10.0",
+    "RPG": "3.9",
+    "APG": "1.5",
+    "PIE": "6.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57328d0191137367b3e"
+  },
+  "playerId": "1630929",
+  "name": "Henri Drell",
+  "team": "Chicago Bulls",
+  "stats": {
+    "PPG": "2.0",
+    "RPG": "1.0",
+    "APG": "2.0",
+    "PIE": "24.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57428d0191137367b40"
+  },
+  "playerId": "1629622",
+  "name": "Max Strus",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "12.2",
+    "RPG": "4.7",
+    "APG": "3.8",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57428d0191137367b42"
+  },
+  "playerId": "1629660",
+  "name": "Ty Jerome",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "2.0",
+    "RPG": "0.5",
+    "APG": "1.5",
+    "PIE": "3.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57528d0191137367b44"
+  },
+  "playerId": "1627747",
+  "name": "Caris LeVert",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "14.0",
+    "RPG": "4.0",
+    "APG": "5.3",
+    "PIE": "10.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57628d0191137367b46"
+  },
+  "playerId": "1630596",
+  "name": "Evan Mobley",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "15.6",
+    "RPG": "10.2",
+    "APG": "3.1",
+    "PIE": "14.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57628d0191137367b48"
+  },
+  "playerId": "1630241",
+  "name": "Sam Merrill",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "8.1",
+    "RPG": "2.0",
+    "APG": "1.7",
+    "PIE": "9.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57728d0191137367b4a"
+  },
+  "playerId": "1631250",
+  "name": "Pete Nance",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "--",
+    "RPG": "0.3",
+    "APG": "--",
+    "PIE": "-9.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57728d0191137367b4c"
+  },
+  "playerId": "1641854",
+  "name": "Craig Porter Jr.",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "5.9",
+    "RPG": "2.2",
+    "APG": "2.4",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57828d0191137367b4e"
+  },
+  "playerId": "1629636",
+  "name": "Darius Garland",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "18.7",
+    "RPG": "2.5",
+    "APG": "6.3",
+    "PIE": "10.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57928d0191137367b50"
+  },
+  "playerId": "202684",
+  "name": "Tristan Thompson",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "4.0",
+    "APG": "1.1",
+    "PIE": "9.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57a28d0191137367b52"
+  },
+  "playerId": "1630600",
+  "name": "Isaiah Mobley",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "2.0",
+    "RPG": "1.0",
+    "APG": "1.0",
+    "PIE": "4.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57b28d0191137367b54"
+  },
+  "playerId": "1627777",
+  "name": "Georges Niang",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "9.3",
+    "RPG": "3.6",
+    "APG": "1.2",
+    "PIE": "7.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57c28d0191137367b56"
+  },
+  "playerId": "1641734",
+  "name": "Emoni Bates",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "2.3",
+    "RPG": "1.0",
+    "APG": "0.5",
+    "PIE": "3.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57c28d0191137367b58"
+  },
+  "playerId": "202694",
+  "name": "Marcus Morris Sr.",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "6.9",
+    "RPG": "3.1",
+    "APG": "0.8",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57d28d0191137367b5a"
+  },
+  "playerId": "1627745",
+  "name": "Damian Jones",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "2.6",
+    "RPG": "1.8",
+    "APG": "0.5",
+    "PIE": "11.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57e28d0191137367b5c"
+  },
+  "playerId": "1628386",
+  "name": "Jarrett Allen",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "16.3",
+    "RPG": "10.8",
+    "APG": "2.7",
+    "PIE": "15.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57f28d0191137367b5e"
+  },
+  "playerId": "1629731",
+  "name": "Dean Wade",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "5.4",
+    "RPG": "4.0",
+    "APG": "0.8",
+    "PIE": "7.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b57f28d0191137367b60"
+  },
+  "playerId": "1628378",
+  "name": "Donovan Mitchell",
+  "team": "Cleveland Cavaliers",
+  "stats": {
+    "PPG": "27.4",
+    "RPG": "5.3",
+    "APG": "6.1",
+    "PIE": "15.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58028d0191137367b62"
+  },
+  "playerId": "1631105",
+  "name": "Jalen Duren",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "13.8",
+    "RPG": "11.9",
+    "APG": "2.5",
+    "PIE": "13.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58128d0191137367b64"
+  },
+  "playerId": "1630595",
+  "name": "Cade Cunningham",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "22.1",
+    "RPG": "4.3",
+    "APG": "7.6",
+    "PIE": "12.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58228d0191137367b66"
+  },
+  "playerId": "1629002",
+  "name": "Chimezie Metu",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "5.3",
+    "RPG": "3.1",
+    "APG": "0.6",
+    "PIE": "9.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58328d0191137367b68"
+  },
+  "playerId": "1628972",
+  "name": "Troy Brown Jr.",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "4.1",
+    "RPG": "2.1",
+    "APG": "1.0",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58428d0191137367b6a"
+  },
+  "playerId": "1631197",
+  "name": "Jared Rhoden",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "3.6",
+    "RPG": "1.6",
+    "APG": "0.5",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58528d0191137367b6c"
+  },
+  "playerId": "1641709",
+  "name": "Ausar Thompson",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "8.8",
+    "RPG": "6.4",
+    "APG": "1.9",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58528d0191137367b6e"
+  },
+  "playerId": "1630164",
+  "name": "James Wiseman",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "6.9",
+    "RPG": "4.9",
+    "APG": "0.8",
+    "PIE": "10.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58628d0191137367b70"
+  },
+  "playerId": "1630649",
+  "name": "Stanley Umude",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "5.3",
+    "RPG": "2.1",
+    "APG": "0.5",
+    "PIE": "7.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58728d0191137367b72"
+  },
+  "playerId": "1630201",
+  "name": "Malachi Flynn",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "4.2",
+    "RPG": "1.5",
+    "APG": "1.6",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58728d0191137367b74"
+  },
+  "playerId": "1641787",
+  "name": "Tosan Evbuomwan",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "5.5",
+    "RPG": "3.4",
+    "APG": "0.7",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58828d0191137367b76"
+  },
+  "playerId": "1631323",
+  "name": "Simone Fontecchio",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "10.5",
+    "RPG": "3.7",
+    "APG": "1.5",
+    "PIE": "7.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58928d0191137367b78"
+  },
+  "playerId": "1631093",
+  "name": "Jaden Ivey",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "15.3",
+    "RPG": "3.4",
+    "APG": "3.7",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58a28d0191137367b7a"
+  },
+  "playerId": "1629656",
+  "name": "Quentin Grimes",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "7.0",
+    "RPG": "2.0",
+    "APG": "1.3",
+    "PIE": "5.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58a28d0191137367b7c"
+  },
+  "playerId": "1631204",
+  "name": "Marcus Sasser",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "7.3",
+    "RPG": "1.7",
+    "APG": "3.1",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58b28d0191137367b7e"
+  },
+  "playerId": "1631205",
+  "name": "Buddy Boeheim",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "6.3",
+    "RPG": "1.3",
+    "APG": "1.0",
+    "PIE": "13.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58c28d0191137367b80"
+  },
+  "playerId": "1630191",
+  "name": "Isaiah Stewart",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "10.9",
+    "RPG": "6.6",
+    "APG": "1.6",
+    "PIE": "8.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58d28d0191137367b82"
+  },
+  "playerId": "203095",
+  "name": "Evan Fournier",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "6.6",
+    "RPG": "1.9",
+    "APG": "1.5",
+    "PIE": "5.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58e28d0191137367b84"
+  },
+  "playerId": "201959",
+  "name": "Taj Gibson",
+  "team": "Detroit Pistons",
+  "stats": {
+    "PPG": "1.1",
+    "RPG": "1.8",
+    "APG": "0.5",
+    "PIE": "1.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58e28d0191137367b86"
+  },
+  "playerId": "1630169",
+  "name": "Tyrese Haliburton",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "20.5",
+    "RPG": "3.9",
+    "APG": "11.2",
+    "PIE": "16.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b58f28d0191137367b88"
+  },
+  "playerId": "1631097",
+  "name": "Bennedict Mathurin",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "14.5",
+    "RPG": "4.0",
+    "APG": "2.0",
+    "PIE": "8.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59028d0191137367b8a"
+  },
+  "playerId": "1630167",
+  "name": "Obi Toppin",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "10.1",
+    "RPG": "3.9",
+    "APG": "1.5",
+    "PIE": "9.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59128d0191137367b8c"
+  },
+  "playerId": "1629614",
+  "name": "Andrew Nembhard",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "9.1",
+    "RPG": "2.0",
+    "APG": "4.2",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59128d0191137367b8e"
+  },
+  "playerId": "1641716",
+  "name": "Jarace Walker",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "1.9",
+    "APG": "1.0",
+    "PIE": "7.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59228d0191137367b90"
+  },
+  "playerId": "204456",
+  "name": "T.J. McConnell",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "9.4",
+    "RPG": "2.7",
+    "APG": "5.3",
+    "PIE": "14.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59228d0191137367b92"
+  },
+  "playerId": "1631112",
+  "name": "Kendall Brown",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "1.4",
+    "RPG": "0.3",
+    "APG": "0.4",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59328d0191137367b94"
+  },
+  "playerId": "201949",
+  "name": "James Johnson",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "0.9",
+    "RPG": "0.6",
+    "APG": "0.9",
+    "PIE": "4.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59428d0191137367b96"
+  },
+  "playerId": "203926",
+  "name": "Doug McDermott",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "5.6",
+    "RPG": "1.0",
+    "APG": "1.2",
+    "PIE": "5.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59528d0191137367b98"
+  },
+  "playerId": "1631209",
+  "name": "Isaiah Wong",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "--",
+    "RPG": "--",
+    "APG": "--"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59728d0191137367b9a"
+  },
+  "playerId": "1630174",
+  "name": "Aaron Nesmith",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "12.3",
+    "RPG": "3.7",
+    "APG": "1.5",
+    "PIE": "7.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59828d0191137367b9c"
+  },
+  "playerId": "1630188",
+  "name": "Jalen Smith",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "10.4",
+    "RPG": "5.6",
+    "APG": "1.1",
+    "PIE": "12.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59928d0191137367b9e"
+  },
+  "playerId": "1641767",
+  "name": "Ben Sheppard",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "1.5",
+    "APG": "0.8",
+    "PIE": "5.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59928d0191137367ba0"
+  },
+  "playerId": "1631245",
+  "name": "Quenton Jackson",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "--",
+    "RPG": "1.0",
+    "APG": "--",
+    "PIE": "18.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59a28d0191137367ba2"
+  },
+  "playerId": "1626167",
+  "name": "Myles Turner",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "17.0",
+    "RPG": "7.0",
+    "APG": "1.3",
+    "PIE": "11.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59b28d0191137367ba4"
+  },
+  "playerId": "1627783",
+  "name": "Pascal Siakam",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "21.6",
+    "RPG": "7.0",
+    "APG": "4.6",
+    "PIE": "13.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59b28d0191137367ba6"
+  },
+  "playerId": "1631131",
+  "name": "Oscar Tshiebwe",
+  "team": "Indiana Pacers",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "2.0",
+    "APG": "0.3",
+    "PIE": "16.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59c28d0191137367ba8"
+  },
+  "playerId": "203081",
+  "name": "Damian Lillard",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "24.6",
+    "RPG": "4.3",
+    "APG": "7.1",
+    "PIE": "13.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59d28d0191137367baa"
+  },
+  "playerId": "1630699",
+  "name": "MarJon Beauchamp",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "2.1",
+    "APG": "0.7",
+    "PIE": "6.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59e28d0191137367bac"
+  },
+  "playerId": "1627736",
+  "name": "Malik Beasley",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "11.5",
+    "RPG": "3.9",
+    "APG": "1.4",
+    "PIE": "6.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b59f28d0191137367bae"
+  },
+  "playerId": "1641753",
+  "name": "Chris Livingston",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "1.1",
+    "RPG": "0.9",
+    "APG": "0.3",
+    "PIE": "4.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a028d0191137367bb0"
+  },
+  "playerId": "1626171",
+  "name": "Bobby Portis",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "13.4",
+    "RPG": "7.2",
+    "APG": "1.2",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a028d0191137367bb2"
+  },
+  "playerId": "201572",
+  "name": "Brook Lopez",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "12.4",
+    "RPG": "5.3",
+    "APG": "1.7",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a128d0191137367bb4"
+  },
+  "playerId": "201568",
+  "name": "Danilo Gallinari",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "5.9",
+    "RPG": "2.3",
+    "APG": "1.2",
+    "PIE": "9.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a128d0191137367bb6"
+  },
+  "playerId": "1631260",
+  "name": "AJ Green",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "4.7",
+    "RPG": "1.1",
+    "APG": "0.6",
+    "PIE": "7.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a228d0191137367bb8"
+  },
+  "playerId": "201976",
+  "name": "Patrick Beverley",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "6.0",
+    "RPG": "3.0",
+    "APG": "2.8",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a328d0191137367bba"
+  },
+  "playerId": "203114",
+  "name": "Khris Middleton",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "15.1",
+    "RPG": "4.3",
+    "APG": "5.1",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a428d0191137367bbc"
+  },
+  "playerId": "1631102",
+  "name": "TyTy Washington Jr.",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "0.6",
+    "RPG": "0.2",
+    "APG": "0.2",
+    "PIE": "-1.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a528d0191137367bbe"
+  },
+  "playerId": "1626192",
+  "name": "Pat Connaughton",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "5.6",
+    "RPG": "3.2",
+    "APG": "1.9",
+    "PIE": "6.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a628d0191137367bc0"
+  },
+  "playerId": "203507",
+  "name": "Giannis Antetokounmpo",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "30.7",
+    "RPG": "11.2",
+    "APG": "6.4",
+    "PIE": "19.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a728d0191137367bc2"
+  },
+  "playerId": "203648",
+  "name": "Thanasis Antetokounmpo",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "0.9",
+    "RPG": "0.4",
+    "APG": "0.5",
+    "PIE": "0.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a828d0191137367bc4"
+  },
+  "playerId": "1641748",
+  "name": "Andre Jackson Jr.",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "2.4",
+    "RPG": "2.0",
+    "APG": "0.9",
+    "PIE": "4.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a928d0191137367bc6"
+  },
+  "playerId": "1631157",
+  "name": "Ryan Rollins",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "4.1",
+    "RPG": "1.1",
+    "APG": "1.1",
+    "PIE": "16.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5a928d0191137367bc8"
+  },
+  "playerId": "203109",
+  "name": "Jae Crowder",
+  "team": "Milwaukee Bucks",
+  "stats": {
+    "PPG": "6.4",
+    "RPG": "3.4",
+    "APG": "1.4",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5aa28d0191137367bca"
+  },
+  "playerId": "1630552",
+  "name": "Jalen Johnson",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "16.1",
+    "RPG": "8.6",
+    "APG": "3.5",
+    "PIE": "11.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ab28d0191137367bcc"
+  },
+  "playerId": "1630235",
+  "name": "Trent Forrest",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "2.2",
+    "RPG": "1.3",
+    "APG": "2.5",
+    "PIE": "7.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ac28d0191137367bce"
+  },
+  "playerId": "1641754",
+  "name": "Seth Lundy",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "0.8",
+    "APG": "--",
+    "PIE": "-0.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ac28d0191137367bd0"
+  },
+  "playerId": "1641723",
+  "name": "Kobe Bufkin",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "1.6",
+    "APG": "1.7",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ad28d0191137367bd2"
+  },
+  "playerId": "1627749",
+  "name": "Dejounte Murray",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "22.3",
+    "RPG": "5.3",
+    "APG": "6.1",
+    "PIE": "12.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ae28d0191137367bd4"
+  },
+  "playerId": "1629027",
+  "name": "Trae Young",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "26.4",
+    "RPG": "2.7",
+    "APG": "10.8",
+    "PIE": "13.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5af28d0191137367bd6"
+  },
+  "playerId": "1629631",
+  "name": "De'Andre Hunter",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "15.5",
+    "RPG": "3.5",
+    "APG": "1.4",
+    "PIE": "8.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5af28d0191137367bd8"
+  },
+  "playerId": "203992",
+  "name": "Bogdan Bogdanovic",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "16.5",
+    "RPG": "3.3",
+    "APG": "3.0",
+    "PIE": "9.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b128d0191137367bda"
+  },
+  "playerId": "1631100",
+  "name": "AJ Griffin",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "2.1",
+    "RPG": "0.8",
+    "APG": "0.2",
+    "PIE": "1.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b128d0191137367bdc"
+  },
+  "playerId": "203991",
+  "name": "Clint Capela",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "11.3",
+    "RPG": "10.5",
+    "APG": "1.1",
+    "PIE": "11.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b228d0191137367bde"
+  },
+  "playerId": "1630168",
+  "name": "Onyeka Okongwu",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "10.2",
+    "RPG": "6.8",
+    "APG": "1.3",
+    "PIE": "9.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b228d0191137367be0"
+  },
+  "playerId": "1631243",
+  "name": "Mouhamed Gueye",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "--",
+    "RPG": "--",
+    "APG": "--",
+    "PIE": "-11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b328d0191137367be2"
+  },
+  "playerId": "1629685",
+  "name": "Dylan Windler",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "1.5",
+    "RPG": "0.7",
+    "APG": "0.7",
+    "PIE": "9.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b428d0191137367be4"
+  },
+  "playerId": "1628981",
+  "name": "Bruno Fernando",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "5.4",
+    "RPG": "4.2",
+    "APG": "0.7",
+    "PIE": "10.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b628d0191137367be6"
+  },
+  "playerId": "1629726",
+  "name": "Garrison Mathews",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "4.0",
+    "RPG": "1.4",
+    "APG": "0.5",
+    "PIE": "4.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b728d0191137367be8"
+  },
+  "playerId": "1630249",
+  "name": "Vit Krejci",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "4.9",
+    "RPG": "1.3",
+    "APG": "2.4",
+    "PIE": "4.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b828d0191137367bea"
+  },
+  "playerId": "202083",
+  "name": "Wesley Matthews",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "2.9",
+    "RPG": "1.4",
+    "APG": "0.6",
+    "PIE": "4.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b928d0191137367bec"
+  },
+  "playerId": "1630180",
+  "name": "Saddiq Bey",
+  "team": "Atlanta Hawks",
+  "stats": {
+    "PPG": "13.7",
+    "RPG": "6.5",
+    "APG": "1.5",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5b928d0191137367bee"
+  },
+  "playerId": "1628970",
+  "name": "Miles Bridges",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "21.3",
+    "RPG": "7.5",
+    "APG": "3.3",
+    "PIE": "11.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5bb28d0191137367bf0"
+  },
+  "playerId": "1630163",
+  "name": "LaMelo Ball",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "23.9",
+    "RPG": "5.1",
+    "APG": "8.0",
+    "PIE": "13.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5bc28d0191137367bf2"
+  },
+  "playerId": "1629684",
+  "name": "Grant Williams",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "9.6",
+    "RPG": "4.0",
+    "APG": "1.9",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5bd28d0191137367bf4"
+  },
+  "playerId": "1630208",
+  "name": "Nick Richards",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "9.8",
+    "RPG": "8.4",
+    "APG": "0.8",
+    "PIE": "10.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5be28d0191137367bf6"
+  },
+  "playerId": "1631109",
+  "name": "Mark Williams",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "12.7",
+    "RPG": "9.7",
+    "APG": "1.2",
+    "PIE": "12.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5bf28d0191137367bf8"
+  },
+  "playerId": "1631121",
+  "name": "Bryce McGowens",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "5.2",
+    "RPG": "1.8",
+    "APG": "0.9",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5bf28d0191137367bfa"
+  },
+  "playerId": "1641733",
+  "name": "Nick Smith Jr.",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "5.8",
+    "RPG": "1.4",
+    "APG": "1.2",
+    "PIE": "5.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c028d0191137367bfc"
+  },
+  "playerId": "202722",
+  "name": "Davis Bertans",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "5.8",
+    "RPG": "1.3",
+    "APG": "0.8",
+    "PIE": "7.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c128d0191137367bfe"
+  },
+  "playerId": "1641735",
+  "name": "Amari Bailey",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "1.2",
+    "RPG": "0.3",
+    "APG": "0.3",
+    "PIE": "1.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c128d0191137367c00"
+  },
+  "playerId": "1628998",
+  "name": "Cody Martin",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "7.5",
+    "RPG": "3.9",
+    "APG": "3.7",
+    "PIE": "6.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c228d0191137367c02"
+  },
+  "playerId": "1641778",
+  "name": "Leaky Black",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "2.3",
+    "RPG": "1.7",
+    "APG": "0.8",
+    "PIE": "6.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c328d0191137367c04"
+  },
+  "playerId": "1629716",
+  "name": "Marques Bolden",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "--",
+    "RPG": "0.8",
+    "APG": "--",
+    "PIE": "-1.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c428d0191137367c06"
+  },
+  "playerId": "1630197",
+  "name": "Aleksej Pokusevski",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "3.0",
+    "RPG": "2.1",
+    "APG": "1.2",
+    "PIE": "6.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c528d0191137367c08"
+  },
+  "playerId": "1630550",
+  "name": "JT Thor",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "2.8",
+    "RPG": "2.3",
+    "APG": "0.4",
+    "PIE": "4.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c528d0191137367c0a"
+  },
+  "playerId": "203995",
+  "name": "Vasilije Micic",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "6.7",
+    "RPG": "1.3",
+    "APG": "3.7",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c628d0191137367c0c"
+  },
+  "playerId": "1630544",
+  "name": "Tre Mann",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "8.3",
+    "RPG": "3.6",
+    "APG": "3.4",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c728d0191137367c0e"
+  },
+  "playerId": "1641706",
+  "name": "Brandon Miller",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "16.6",
+    "RPG": "4.2",
+    "APG": "2.4",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c728d0191137367c10"
+  },
+  "playerId": "203552",
+  "name": "Seth Curry",
+  "team": "Charlotte Hornets",
+  "stats": {
+    "PPG": "5.1",
+    "RPG": "1.5",
+    "APG": "1.0",
+    "PIE": "6.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c828d0191137367c12"
+  },
+  "playerId": "1626196",
+  "name": "Josh Richardson",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "9.9",
+    "RPG": "2.8",
+    "APG": "2.4",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c828d0191137367c14"
+  },
+  "playerId": "1626179",
+  "name": "Terry Rozier",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "19.9",
+    "RPG": "4.2",
+    "APG": "5.9",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5c928d0191137367c16"
+  },
+  "playerId": "1626153",
+  "name": "Delon Wright",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "4.1",
+    "RPG": "1.8",
+    "APG": "2.5",
+    "PIE": "9.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ca28d0191137367c18"
+  },
+  "playerId": "1631107",
+  "name": "Nikola Jovic",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "6.5",
+    "RPG": "4.1",
+    "APG": "1.8",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ca28d0191137367c1a"
+  },
+  "playerId": "1631288",
+  "name": "Jamal Cain",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "4.8",
+    "RPG": "1.8",
+    "APG": "0.3",
+    "PIE": "6.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5cb28d0191137367c1c"
+  },
+  "playerId": "201988",
+  "name": "Patty Mills",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "3.4",
+    "RPG": "1.2",
+    "APG": "1.0",
+    "PIE": "3.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5cc28d0191137367c1e"
+  },
+  "playerId": "1631170",
+  "name": "Jaime Jaquez Jr.",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "12.3",
+    "RPG": "4.0",
+    "APG": "2.6",
+    "PIE": "8.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5cd28d0191137367c20"
+  },
+  "playerId": "1628389",
+  "name": "Bam Adebayo",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "19.7",
+    "RPG": "10.6",
+    "APG": "3.9",
+    "PIE": "15.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ce28d0191137367c22"
+  },
+  "playerId": "1629639",
+  "name": "Tyler Herro",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "20.8",
+    "RPG": "5.3",
+    "APG": "4.4",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ce28d0191137367c24"
+  },
+  "playerId": "1631214",
+  "name": "Alondes Williams",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "--",
+    "RPG": "0.5",
+    "APG": "--",
+    "PIE": "-10.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5cf28d0191137367c26"
+  },
+  "playerId": "1628997",
+  "name": "Caleb Martin",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "10.3",
+    "RPG": "4.7",
+    "APG": "2.0",
+    "PIE": "7.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d028d0191137367c28"
+  },
+  "playerId": "1631306",
+  "name": "Cole Swider",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "0.5",
+    "APG": "0.3",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d028d0191137367c2a"
+  },
+  "playerId": "202710",
+  "name": "Jimmy Butler",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "21.5",
+    "RPG": "5.4",
+    "APG": "4.8",
+    "PIE": "14.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d128d0191137367c2c"
+  },
+  "playerId": "1629312",
+  "name": "Haywood Highsmith",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "5.2",
+    "RPG": "2.6",
+    "APG": "1.0",
+    "PIE": "5.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d228d0191137367c2e"
+  },
+  "playerId": "1631115",
+  "name": "Orlando Robinson",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "2.7",
+    "APG": "1.1",
+    "PIE": "10.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d328d0191137367c30"
+  },
+  "playerId": "1628418",
+  "name": "Thomas Bryant",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "4.7",
+    "RPG": "3.3",
+    "APG": "0.5",
+    "PIE": "11.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d428d0191137367c32"
+  },
+  "playerId": "201567",
+  "name": "Kevin Love",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "9.0",
+    "RPG": "6.2",
+    "APG": "2.2",
+    "PIE": "14.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d428d0191137367c34"
+  },
+  "playerId": "1629130",
+  "name": "Duncan Robinson",
+  "team": "Miami Heat",
+  "stats": {
+    "PPG": "13.5",
+    "RPG": "2.6",
+    "APG": "3.0",
+    "PIE": "8.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d528d0191137367c36"
+  },
+  "playerId": "1641710",
+  "name": "Anthony Black",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "4.7",
+    "RPG": "2.2",
+    "APG": "1.4",
+    "PIE": "5.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d628d0191137367c38"
+  },
+  "playerId": "1628371",
+  "name": "Jonathan Isaac",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "7.0",
+    "RPG": "4.3",
+    "APG": "0.4",
+    "PIE": "14.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d628d0191137367c3a"
+  },
+  "playerId": "1631216",
+  "name": "Caleb Houstan",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "1.5",
+    "APG": "0.5",
+    "PIE": "4.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d728d0191137367c3c"
+  },
+  "playerId": "1629643",
+  "name": "Chuma Okeke",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "2.5",
+    "RPG": "1.8",
+    "APG": "0.5",
+    "PIE": "6.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d828d0191137367c3e"
+  },
+  "playerId": "1630591",
+  "name": "Jalen Suggs",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "12.5",
+    "RPG": "3.2",
+    "APG": "2.6",
+    "PIE": "8.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5d928d0191137367c40"
+  },
+  "playerId": "1631094",
+  "name": "Paolo Banchero",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "22.6",
+    "RPG": "6.8",
+    "APG": "5.4",
+    "PIE": "13.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5da28d0191137367c42"
+  },
+  "playerId": "204060",
+  "name": "Joe Ingles",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "2.1",
+    "APG": "3.0",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5db28d0191137367c44"
+  },
+  "playerId": "1630284",
+  "name": "Kevon Harris",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "2.0",
+    "RPG": "1.0",
+    "APG": "0.5",
+    "PIE": "5.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5dc28d0191137367c46"
+  },
+  "playerId": "1630243",
+  "name": "Trevelin Queen",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "3.1",
+    "RPG": "1.5",
+    "APG": "1.4",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5dd28d0191137367c48"
+  },
+  "playerId": "1641724",
+  "name": "Jett Howard",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "0.4",
+    "APG": "0.2",
+    "PIE": "5.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5dd28d0191137367c4a"
+  },
+  "playerId": "203914",
+  "name": "Gary Harris",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "7.1",
+    "RPG": "1.6",
+    "APG": "1.6",
+    "PIE": "6.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5de28d0191137367c4c"
+  },
+  "playerId": "1628365",
+  "name": "Markelle Fultz",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "7.6",
+    "RPG": "3.3",
+    "APG": "3.0",
+    "PIE": "8.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5df28d0191137367c4e"
+  },
+  "playerId": "1629021",
+  "name": "Moritz Wagner",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "11.0",
+    "RPG": "4.4",
+    "APG": "1.2",
+    "PIE": "13.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e028d0191137367c50"
+  },
+  "playerId": "1630532",
+  "name": "Franz Wagner",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "19.8",
+    "RPG": "5.4",
+    "APG": "3.9",
+    "PIE": "13.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e028d0191137367c52"
+  },
+  "playerId": "1629678",
+  "name": "Admiral Schofield",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "0.7",
+    "APG": "0.3",
+    "PIE": "4.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e128d0191137367c54"
+  },
+  "playerId": "1628976",
+  "name": "Wendell Carter Jr.",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "11.3",
+    "RPG": "7.0",
+    "APG": "1.8",
+    "PIE": "11.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e228d0191137367c56"
+  },
+  "playerId": "1629048",
+  "name": "Goga Bitadze",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "5.4",
+    "RPG": "4.9",
+    "APG": "1.4",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e328d0191137367c58"
+  },
+  "playerId": "1630175",
+  "name": "Cole Anthony",
+  "team": "Orlando Magic",
+  "stats": {
+    "PPG": "11.7",
+    "RPG": "4.0",
+    "APG": "3.0",
+    "PIE": "10.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e328d0191137367c5a"
+  },
+  "playerId": "1641774",
+  "name": "Tristan Vukcevic",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "--",
+    "RPG": "1.0",
+    "APG": "--",
+    "PIE": "9.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e428d0191137367c5c"
+  },
+  "playerId": "1641731",
+  "name": "Bilal Coulibaly",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "8.4",
+    "RPG": "4.1",
+    "APG": "1.7",
+    "PIE": "5.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e528d0191137367c5e"
+  },
+  "playerId": "1631098",
+  "name": "Johnny Davis",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "2.5",
+    "RPG": "1.4",
+    "APG": "0.5",
+    "PIE": "2.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e528d0191137367c60"
+  },
+  "playerId": "1630215",
+  "name": "Jared Butler",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "4.9",
+    "RPG": "1.0",
+    "APG": "2.3",
+    "PIE": "9.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e628d0191137367c62"
+  },
+  "playerId": "1626145",
+  "name": "Tyus Jones",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "12.0",
+    "RPG": "2.7",
+    "APG": "7.3",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e728d0191137367c64"
+  },
+  "playerId": "1631116",
+  "name": "Patrick Baldwin Jr.",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "3.4",
+    "RPG": "2.6",
+    "APG": "0.6",
+    "PIE": "7.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e728d0191137367c66"
+  },
+  "playerId": "1630166",
+  "name": "Deni Avdija",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "14.2",
+    "RPG": "7.0",
+    "APG": "3.7",
+    "PIE": "10.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e828d0191137367c68"
+  },
+  "playerId": "1630587",
+  "name": "Isaiah Livers",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "5.0",
+    "RPG": "2.1",
+    "APG": "1.1",
+    "PIE": "2.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e928d0191137367c6a"
+  },
+  "playerId": "1629673",
+  "name": "Jordan Poole",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "16.6",
+    "RPG": "2.6",
+    "APG": "3.9",
+    "PIE": "7.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5e928d0191137367c6c"
+  },
+  "playerId": "1631262",
+  "name": "Jules Bernard",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "3.8",
+    "RPG": "1.0",
+    "APG": "0.9",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ea28d0191137367c6e"
+  },
+  "playerId": "1630264",
+  "name": "Anthony Gill",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "2.6",
+    "RPG": "1.4",
+    "APG": "0.5",
+    "PIE": "8.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ea28d0191137367c70"
+  },
+  "playerId": "1629013",
+  "name": "Landry Shamet",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "7.1",
+    "RPG": "1.3",
+    "APG": "1.2",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5eb28d0191137367c72"
+  },
+  "playerId": "1626158",
+  "name": "Richaun Holmes",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "4.9",
+    "RPG": "4.3",
+    "APG": "0.6",
+    "PIE": "9.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ec28d0191137367c74"
+  },
+  "playerId": "1630557",
+  "name": "Corey Kispert",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "12.6",
+    "RPG": "2.5",
+    "APG": "1.8",
+    "PIE": "8.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ec28d0191137367c76"
+  },
+  "playerId": "1628398",
+  "name": "Kyle Kuzma",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "22.4",
+    "RPG": "6.5",
+    "APG": "4.2",
+    "PIE": "11.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ec28d0191137367c78"
+  },
+  "playerId": "1628963",
+  "name": "Marvin Bagley III",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "11.5",
+    "RPG": "6.2",
+    "APG": "1.2",
+    "PIE": "11.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ee28d0191137367c7a"
+  },
+  "playerId": "1630647",
+  "name": "Eugene Omoruyi",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "4.2",
+    "RPG": "2.0",
+    "APG": "0.8",
+    "PIE": "9.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ee28d0191137367c7c"
+  },
+  "playerId": "1630551",
+  "name": "Justin Champagnie",
+  "team": "Washington Wizards",
+  "stats": {
+    "PPG": "5.8",
+    "RPG": "2.9",
+    "APG": "1.0",
+    "PIE": "9.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ef28d0191137367c7e"
+  },
+  "playerId": "1631128",
+  "name": "Christian Braun",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "7.0",
+    "RPG": "3.6",
+    "APG": "1.4",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f028d0191137367c80"
+  },
+  "playerId": "1629008",
+  "name": "Michael Porter Jr.",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "17.0",
+    "RPG": "7.0",
+    "APG": "1.5",
+    "PIE": "10.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f028d0191137367c82"
+  },
+  "playerId": "1631124",
+  "name": "Julian Strawther",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "5.0",
+    "RPG": "1.3",
+    "APG": "1.0",
+    "PIE": "5.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f128d0191137367c84"
+  },
+  "playerId": "1641816",
+  "name": "Hunter Tyson",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "0.7",
+    "RPG": "0.8",
+    "APG": "0.1",
+    "PIE": "0.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f228d0191137367c86"
+  },
+  "playerId": "203484",
+  "name": "Kentavious Caldwell-Pope",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "10.0",
+    "RPG": "2.4",
+    "APG": "2.4",
+    "PIE": "6.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f328d0191137367c88"
+  },
+  "playerId": "201599",
+  "name": "DeAndre Jordan",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "4.2",
+    "RPG": "4.5",
+    "APG": "0.7",
+    "PIE": "11.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f428d0191137367c8a"
+  },
+  "playerId": "1631212",
+  "name": "Peyton Watson",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "6.7",
+    "RPG": "2.9",
+    "APG": "1.0",
+    "PIE": "7.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f428d0191137367c8c"
+  },
+  "playerId": "203200",
+  "name": "Justin Holiday",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "3.8",
+    "RPG": "1.2",
+    "APG": "1.1",
+    "PIE": "5.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f528d0191137367c8e"
+  },
+  "playerId": "1630296",
+  "name": "Braxton Key",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "0.8",
+    "APG": "0.5",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f628d0191137367c90"
+  },
+  "playerId": "203999",
+  "name": "Nikola Jokic",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "26.1",
+    "RPG": "12.3",
+    "APG": "9.0",
+    "PIE": "21.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f728d0191137367c92"
+  },
+  "playerId": "1631221",
+  "name": "Collin Gillespie",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "0.8",
+    "APG": "0.9",
+    "PIE": "6.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f728d0191137367c94"
+  },
+  "playerId": "1630192",
+  "name": "Zeke Nnaji",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "3.2",
+    "RPG": "2.1",
+    "APG": "0.6",
+    "PIE": "6.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f828d0191137367c96"
+  },
+  "playerId": "1629618",
+  "name": "Jalen Pickett",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "0.5",
+    "APG": "0.7",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f828d0191137367c98"
+  },
+  "playerId": "1627750",
+  "name": "Jamal Murray",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "20.9",
+    "RPG": "4.1",
+    "APG": "6.7",
+    "PIE": "13.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5f928d0191137367c9a"
+  },
+  "playerId": "1630643",
+  "name": "Jay Huff",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "1.4",
+    "RPG": "0.7",
+    "APG": "0.1",
+    "PIE": "14.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5fa28d0191137367c9c"
+  },
+  "playerId": "1628427",
+  "name": "Vlatko Cancar",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "5.0",
+    "RPG": "2.1",
+    "APG": "1.3",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5fc28d0191137367c9e"
+  },
+  "playerId": "203932",
+  "name": "Aaron Gordon",
+  "team": "Denver Nuggets",
+  "stats": {
+    "PPG": "13.8",
+    "RPG": "6.5",
+    "APG": "3.4",
+    "PIE": "10.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5fd28d0191137367ca0"
+  },
+  "playerId": "1641740",
+  "name": "Jaylen Clark",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "--",
+    "RPG": "--",
+    "APG": "--"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5fe28d0191137367ca2"
+  },
+  "playerId": "203937",
+  "name": "Kyle Anderson",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "6.5",
+    "RPG": "3.6",
+    "APG": "4.2",
+    "PIE": "9.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ff28d0191137367ca4"
+  },
+  "playerId": "1630183",
+  "name": "Jaden McDaniels",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "10.6",
+    "RPG": "3.1",
+    "APG": "1.4",
+    "PIE": "5.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b5ff28d0191137367ca6"
+  },
+  "playerId": "1630162",
+  "name": "Anthony Edwards",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "26.5",
+    "RPG": "5.5",
+    "APG": "5.1",
+    "PIE": "14.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60028d0191137367ca8"
+  },
+  "playerId": "1629162",
+  "name": "Jordan McLaughlin",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "1.3",
+    "APG": "1.9",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60128d0191137367caa"
+  },
+  "playerId": "1631111",
+  "name": "Wendell Moore Jr.",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "0.6",
+    "RPG": "0.4",
+    "APG": "0.1",
+    "PIE": "5.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60228d0191137367cac"
+  },
+  "playerId": "1631169",
+  "name": "Josh Minott",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "0.5",
+    "APG": "0.2",
+    "PIE": "12.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60228d0191137367cae"
+  },
+  "playerId": "1629638",
+  "name": "Nickeil Alexander-Walker",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "7.6",
+    "RPG": "2.1",
+    "APG": "2.6",
+    "PIE": "6.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60328d0191137367cb0"
+  },
+  "playerId": "201144",
+  "name": "Mike Conley",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "11.0",
+    "RPG": "2.9",
+    "APG": "6.0",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60328d0191137367cb2"
+  },
+  "playerId": "1629675",
+  "name": "Naz Reid",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "13.0",
+    "RPG": "5.0",
+    "APG": "1.2",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60428d0191137367cb4"
+  },
+  "playerId": "1630227",
+  "name": "Daishen Nix",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "1.8",
+    "RPG": "0.1",
+    "APG": "0.2",
+    "PIE": "6.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60528d0191137367cb6"
+  },
+  "playerId": "1628420",
+  "name": "Monte Morris",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "5.0",
+    "RPG": "1.5",
+    "APG": "2.3",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60628d0191137367cb8"
+  },
+  "playerId": "203933",
+  "name": "T.J. Warren",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "4.1",
+    "RPG": "2.3",
+    "APG": "1.0",
+    "PIE": "4.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60628d0191137367cba"
+  },
+  "playerId": "203497",
+  "name": "Rudy Gobert",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "13.6",
+    "RPG": "12.9",
+    "APG": "1.2",
+    "PIE": "13.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60628d0191137367cbc"
+  },
+  "playerId": "1626157",
+  "name": "Karl-Anthony Towns",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "22.1",
+    "RPG": "8.4",
+    "APG": "3.0",
+    "PIE": "14.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60728d0191137367cbe"
+  },
+  "playerId": "1631159",
+  "name": "Leonard Miller",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "1.7",
+    "RPG": "1.3",
+    "APG": "0.6",
+    "PIE": "17.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60728d0191137367cc0"
+  },
+  "playerId": "1630568",
+  "name": "Luka Garza",
+  "team": "Minnesota Timberwolves",
+  "stats": {
+    "PPG": "3.9",
+    "RPG": "1.3",
+    "APG": "0.2",
+    "PIE": "8.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60828d0191137367cc2"
+  },
+  "playerId": "1628983",
+  "name": "Shai Gilgeous-Alexander",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "30.8",
+    "RPG": "5.6",
+    "APG": "6.4",
+    "PIE": "19.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60828d0191137367cc4"
+  },
+  "playerId": "1630581",
+  "name": "Josh Giddey",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "11.5",
+    "RPG": "6.1",
+    "APG": "4.4",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60928d0191137367cc6"
+  },
+  "playerId": "1629652",
+  "name": "Luguentz Dort",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "10.8",
+    "RPG": "3.7",
+    "APG": "1.4",
+    "PIE": "6.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60928d0191137367cc8"
+  },
+  "playerId": "1631119",
+  "name": "Jaylin Williams",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "3.2",
+    "APG": "1.3",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60a28d0191137367cca"
+  },
+  "playerId": "1631096",
+  "name": "Chet Holmgren",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "17.1",
+    "RPG": "8.0",
+    "APG": "2.6",
+    "PIE": "13.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60b28d0191137367ccc"
+  },
+  "playerId": "1631114",
+  "name": "Jalen Williams",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "19.2",
+    "RPG": "4.0",
+    "APG": "4.5",
+    "PIE": "12.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60c28d0191137367cce"
+  },
+  "playerId": "1630198",
+  "name": "Isaiah Joe",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "8.0",
+    "RPG": "2.2",
+    "APG": "1.1",
+    "PIE": "8.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60c28d0191137367cd0"
+  },
+  "playerId": "1630322",
+  "name": "Lindy Waters III",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "2.5",
+    "RPG": "1.0",
+    "APG": "0.5",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60d28d0191137367cd2"
+  },
+  "playerId": "1631172",
+  "name": "Ousmane Dieng",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "3.9",
+    "RPG": "1.6",
+    "APG": "1.1",
+    "PIE": "7.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60e28d0191137367cd4"
+  },
+  "playerId": "1641745",
+  "name": "Adam Flagler",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "--",
+    "RPG": "--",
+    "APG": "1.0",
+    "PIE": "-7.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b60f28d0191137367cd6"
+  },
+  "playerId": "202687",
+  "name": "Bismack Biyombo",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "4.6",
+    "RPG": "5.6",
+    "APG": "1.5",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61028d0191137367cd8"
+  },
+  "playerId": "1641749",
+  "name": "Keyontae Johnson",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "1.2",
+    "RPG": "1.1",
+    "APG": "0.4",
+    "PIE": "1.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61028d0191137367cda"
+  },
+  "playerId": "1630598",
+  "name": "Aaron Wiggins",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "6.0",
+    "RPG": "2.3",
+    "APG": "0.9",
+    "PIE": "9.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61128d0191137367cdc"
+  },
+  "playerId": "1641717",
+  "name": "Cason Wallace",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "6.8",
+    "RPG": "2.3",
+    "APG": "1.4",
+    "PIE": "7.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61228d0191137367cde"
+  },
+  "playerId": "1630846",
+  "name": "Olivier Sarr",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "2.4",
+    "RPG": "2.5",
+    "APG": "0.1",
+    "PIE": "9.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61328d0191137367ce0"
+  },
+  "playerId": "202330",
+  "name": "Gordon Hayward",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "10.8",
+    "RPG": "4.0",
+    "APG": "3.6",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61428d0191137367ce2"
+  },
+  "playerId": "1629026",
+  "name": "Kenrich Williams",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "2.9",
+    "APG": "1.3",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61428d0191137367ce4"
+  },
+  "playerId": "203488",
+  "name": "Mike Muscala",
+  "team": "Oklahoma City Thunder",
+  "stats": {
+    "PPG": "3.4",
+    "RPG": "2.6",
+    "APG": "0.8",
+    "PIE": "5.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61628d0191137367ce6"
+  },
+  "playerId": "1630703",
+  "name": "Scoot Henderson",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "13.1",
+    "RPG": "3.1",
+    "APG": "4.8",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61628d0191137367ce8"
+  },
+  "playerId": "1629014",
+  "name": "Anfernee Simons",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "22.6",
+    "RPG": "3.6",
+    "APG": "5.5",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61728d0191137367cea"
+  },
+  "playerId": "1629028",
+  "name": "Deandre Ayton",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "15.8",
+    "RPG": "11.1",
+    "APG": "1.6",
+    "PIE": "13.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61828d0191137367cec"
+  },
+  "playerId": "1629680",
+  "name": "Matisse Thybulle",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "5.5",
+    "RPG": "2.1",
+    "APG": "1.4",
+    "PIE": "6.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61828d0191137367cee"
+  },
+  "playerId": "1630625",
+  "name": "Dalano Banton",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "7.8",
+    "RPG": "2.7",
+    "APG": "1.7",
+    "PIE": "8.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61928d0191137367cf0"
+  },
+  "playerId": "1631200",
+  "name": "Kris Murray",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "5.5",
+    "RPG": "3.1",
+    "APG": "1.2",
+    "PIE": "6.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61a28d0191137367cf2"
+  },
+  "playerId": "203924",
+  "name": "Jerami Grant",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "21.0",
+    "RPG": "3.5",
+    "APG": "2.8",
+    "PIE": "10.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61a28d0191137367cf4"
+  },
+  "playerId": "1629650",
+  "name": "Moses Brown",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "2.7",
+    "RPG": "3.9",
+    "APG": "0.4",
+    "PIE": "7.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61b28d0191137367cf6"
+  },
+  "playerId": "1627763",
+  "name": "Malcolm Brogdon",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "15.7",
+    "RPG": "3.8",
+    "APG": "5.5",
+    "PIE": "12.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61b28d0191137367cf8"
+  },
+  "playerId": "1631101",
+  "name": "Shaedon Sharpe",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "15.9",
+    "RPG": "5.0",
+    "APG": "2.9",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61c28d0191137367cfa"
+  },
+  "playerId": "1630204",
+  "name": "Ashton Hagans",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "3.9",
+    "RPG": "2.4",
+    "APG": "2.9",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61d28d0191137367cfc"
+  },
+  "playerId": "1631303",
+  "name": "Justin Minaya",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "1.2",
+    "RPG": "1.1",
+    "APG": "0.4",
+    "PIE": "2.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61d28d0191137367cfe"
+  },
+  "playerId": "1641871",
+  "name": "Duop Reath",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "9.3",
+    "RPG": "3.6",
+    "APG": "1.0",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61e28d0191137367d00"
+  },
+  "playerId": "1641739",
+  "name": "Toumani Camara",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "7.3",
+    "RPG": "4.9",
+    "APG": "1.3",
+    "PIE": "6.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61f28d0191137367d02"
+  },
+  "playerId": "1631133",
+  "name": "Jabari Walker",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "8.6",
+    "RPG": "6.5",
+    "APG": "0.9",
+    "PIE": "9.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b61f28d0191137367d04"
+  },
+  "playerId": "1629057",
+  "name": "Robert Williams III",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "6.8",
+    "RPG": "6.3",
+    "APG": "0.8",
+    "PIE": "11.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62028d0191137367d06"
+  },
+  "playerId": "1630641",
+  "name": "Ibou Badji",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "1.5",
+    "RPG": "2.5",
+    "APG": "0.7",
+    "PIE": "3.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62028d0191137367d08"
+  },
+  "playerId": "1641712",
+  "name": "Rayan Rupert",
+  "team": "Portland Trail Blazers",
+  "stats": {
+    "PPG": "3.0",
+    "RPG": "1.6",
+    "APG": "1.1",
+    "PIE": "5.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62128d0191137367d0a"
+  },
+  "playerId": "203903",
+  "name": "Jordan Clarkson",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "17.4",
+    "RPG": "3.4",
+    "APG": "5.0",
+    "PIE": "9.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62128d0191137367d0c"
+  },
+  "playerId": "1641707",
+  "name": "Taylor Hendricks",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "6.4",
+    "RPG": "4.4",
+    "APG": "0.6",
+    "PIE": "6.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62228d0191137367d0e"
+  },
+  "playerId": "1629012",
+  "name": "Collin Sexton",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "18.5",
+    "RPG": "2.6",
+    "APG": "4.8",
+    "PIE": "12.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62328d0191137367d10"
+  },
+  "playerId": "1641718",
+  "name": "Keyonte George",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "12.9",
+    "RPG": "2.9",
+    "APG": "4.5",
+    "PIE": "8.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62428d0191137367d12"
+  },
+  "playerId": "1629659",
+  "name": "Talen Horton-Tucker",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "9.7",
+    "RPG": "2.4",
+    "APG": "3.6",
+    "PIE": "9.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62428d0191137367d14"
+  },
+  "playerId": "1641729",
+  "name": "Brice Sensabaugh",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "5.8",
+    "RPG": "2.8",
+    "APG": "1.5",
+    "PIE": "5.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62528d0191137367d16"
+  },
+  "playerId": "1630554",
+  "name": "Jason Preston",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "1.8",
+    "APG": "1.8",
+    "PIE": "7.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62628d0191137367d18"
+  },
+  "playerId": "1627739",
+  "name": "Kris Dunn",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "5.3",
+    "RPG": "2.8",
+    "APG": "3.9",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62628d0191137367d1a"
+  },
+  "playerId": "1630184",
+  "name": "Kira Lewis Jr.",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "2.8",
+    "RPG": "0.9",
+    "APG": "1.3",
+    "PIE": "7.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62728d0191137367d1c"
+  },
+  "playerId": "1629677",
+  "name": "Luka Samanic",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "3.0",
+    "RPG": "1.9",
+    "APG": "0.3",
+    "PIE": "6.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62828d0191137367d1e"
+  },
+  "playerId": "1628381",
+  "name": "John Collins",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "14.7",
+    "RPG": "8.4",
+    "APG": "1.1",
+    "PIE": "10.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62828d0191137367d20"
+  },
+  "playerId": "1628374",
+  "name": "Lauri Markkanen",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "23.0",
+    "RPG": "8.2",
+    "APG": "2.0",
+    "PIE": "13.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62928d0191137367d22"
+  },
+  "playerId": "1631117",
+  "name": "Walker Kessler",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "8.3",
+    "RPG": "7.7",
+    "APG": "0.9",
+    "PIE": "11.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62a28d0191137367d24"
+  },
+  "playerId": "1630695",
+  "name": "Micah Potter",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "2.3",
+    "APG": "0.3",
+    "PIE": "8.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62a28d0191137367d26"
+  },
+  "playerId": "1629647",
+  "name": "Darius Bazley",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "--",
+    "RPG": "0.3",
+    "APG": "0.7",
+    "PIE": "2.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62b28d0191137367d28"
+  },
+  "playerId": "1630548",
+  "name": "Johnny Juzang",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "5.3",
+    "RPG": "1.4",
+    "APG": "0.5",
+    "PIE": "5.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62c28d0191137367d2a"
+  },
+  "playerId": "1631254",
+  "name": "Kenneth Lofton Jr.",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "2.4",
+    "RPG": "1.1",
+    "APG": "0.8",
+    "PIE": "4.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62d28d0191137367d2c"
+  },
+  "playerId": "1630209",
+  "name": "Omer Yurtseven",
+  "team": "Utah Jazz",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "3.7",
+    "APG": "0.5",
+    "PIE": "10.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62e28d0191137367d2e"
+  },
+  "playerId": "1627780",
+  "name": "Gary Payton II",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "5.1",
+    "RPG": "2.6",
+    "APG": "1.0",
+    "PIE": "7.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62e28d0191137367d30"
+  },
+  "playerId": "1630228",
+  "name": "Jonathan Kuminga",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "16.3",
+    "RPG": "4.8",
+    "APG": "2.1",
+    "PIE": "10.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b62f28d0191137367d32"
+  },
+  "playerId": "1641764",
+  "name": "Brandin Podziemski",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "9.4",
+    "RPG": "5.8",
+    "APG": "3.9",
+    "PIE": "9.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63028d0191137367d34"
+  },
+  "playerId": "101108",
+  "name": "Chris Paul",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "9.5",
+    "RPG": "4.0",
+    "APG": "7.0",
+    "PIE": "12.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63028d0191137367d36"
+  },
+  "playerId": "1630541",
+  "name": "Moses Moody",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "7.8",
+    "RPG": "3.0",
+    "APG": "0.7",
+    "PIE": "8.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63128d0191137367d38"
+  },
+  "playerId": "1626172",
+  "name": "Kevon Looney",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "4.5",
+    "RPG": "5.8",
+    "APG": "2.0",
+    "PIE": "9.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63128d0191137367d3a"
+  },
+  "playerId": "202691",
+  "name": "Klay Thompson",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "17.3",
+    "RPG": "3.3",
+    "APG": "2.2",
+    "PIE": "8.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63228d0191137367d3c"
+  },
+  "playerId": "1630586",
+  "name": "Usman Garuba",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "--",
+    "RPG": "0.3",
+    "APG": "0.3",
+    "PIE": "-1.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63228d0191137367d3e"
+  },
+  "playerId": "1630611",
+  "name": "Gui Santos",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "2.4",
+    "APG": "0.6",
+    "PIE": "10.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63328d0191137367d40"
+  },
+  "playerId": "1629010",
+  "name": "Jerome Robinson",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "1.4",
+    "RPG": "0.3",
+    "APG": "0.3",
+    "PIE": "3.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63428d0191137367d42"
+  },
+  "playerId": "203967",
+  "name": "Dario Saric",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "8.1",
+    "RPG": "4.5",
+    "APG": "2.3",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63428d0191137367d44"
+  },
+  "playerId": "203952",
+  "name": "Andrew Wiggins",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "12.6",
+    "RPG": "4.4",
+    "APG": "1.7",
+    "PIE": "7.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63528d0191137367d46"
+  },
+  "playerId": "203110",
+  "name": "Draymond Green",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "8.9",
+    "RPG": "7.3",
+    "APG": "6.1",
+    "PIE": "10.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63528d0191137367d48"
+  },
+  "playerId": "1631311",
+  "name": "Lester Quinones",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "4.5",
+    "RPG": "2.2",
+    "APG": "1.0",
+    "PIE": "6.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63628d0191137367d4a"
+  },
+  "playerId": "201939",
+  "name": "Stephen Curry",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "26.8",
+    "RPG": "4.5",
+    "APG": "4.9",
+    "PIE": "13.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63628d0191137367d4c"
+  },
+  "playerId": "1631218",
+  "name": "Trayce Jackson-Davis",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "7.5",
+    "RPG": "4.5",
+    "APG": "1.1",
+    "PIE": "13.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63828d0191137367d4e"
+  },
+  "playerId": "1630311",
+  "name": "Pat Spencer",
+  "team": "Golden State Warriors",
+  "stats": {
+    "PPG": "0.7",
+    "RPG": "--",
+    "APG": "0.7",
+    "PIE": "25.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63828d0191137367d50"
+  },
+  "playerId": "201566",
+  "name": "Russell Westbrook",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "11.1",
+    "RPG": "5.1",
+    "APG": "4.4",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63928d0191137367d52"
+  },
+  "playerId": "201935",
+  "name": "James Harden",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "17.2",
+    "RPG": "5.1",
+    "APG": "8.5",
+    "PIE": "13.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63a28d0191137367d54"
+  },
+  "playerId": "202695",
+  "name": "Kawhi Leonard",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "23.7",
+    "RPG": "6.0",
+    "APG": "3.6",
+    "PIE": "15.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63b28d0191137367d56"
+  },
+  "playerId": "1630527",
+  "name": "Brandon Boston Jr.",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "4.1",
+    "RPG": "1.2",
+    "APG": "0.3",
+    "PIE": "4.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63c28d0191137367d58"
+  },
+  "playerId": "1630538",
+  "name": "Bones Hyland",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "6.0",
+    "RPG": "1.1",
+    "APG": "2.3",
+    "PIE": "6.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63d28d0191137367d5a"
+  },
+  "playerId": "1629599",
+  "name": "Amir Coffey",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "6.2",
+    "RPG": "1.9",
+    "APG": "1.0",
+    "PIE": "6.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63e28d0191137367d5c"
+  },
+  "playerId": "1628464",
+  "name": "Daniel Theis",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "6.0",
+    "RPG": "3.9",
+    "APG": "1.1",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63e28d0191137367d5e"
+  },
+  "playerId": "1641757",
+  "name": "Jordan Miller",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "0.6",
+    "APG": "--",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b63f28d0191137367d60"
+  },
+  "playerId": "1630563",
+  "name": "Joshua Primo",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "0.5",
+    "APG": "--",
+    "PIE": "-7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64028d0191137367d62"
+  },
+  "playerId": "202331",
+  "name": "Paul George",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "22.5",
+    "RPG": "5.3",
+    "APG": "3.6",
+    "PIE": "12.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64128d0191137367d64"
+  },
+  "playerId": "1629611",
+  "name": "Terance Mann",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "8.4",
+    "RPG": "3.3",
+    "APG": "1.7",
+    "PIE": "6.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64228d0191137367d66"
+  },
+  "playerId": "200782",
+  "name": "P.J. Tucker",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "1.7",
+    "RPG": "3.0",
+    "APG": "0.5",
+    "PIE": "3.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64328d0191137367d68"
+  },
+  "playerId": "1641738",
+  "name": "Kobe Brown",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "1.8",
+    "RPG": "1.3",
+    "APG": "0.5",
+    "PIE": "3.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64428d0191137367d6a"
+  },
+  "playerId": "1629875",
+  "name": "Xavier Moon",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "1.4",
+    "RPG": "0.6",
+    "APG": "0.6",
+    "PIE": "4.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64428d0191137367d6c"
+  },
+  "playerId": "1626181",
+  "name": "Norman Powell",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "14.0",
+    "RPG": "2.6",
+    "APG": "1.1",
+    "PIE": "8.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64628d0191137367d6e"
+  },
+  "playerId": "1631217",
+  "name": "Moussa Diabate",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "2.6",
+    "RPG": "2.2",
+    "APG": "0.4",
+    "PIE": "14.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64728d0191137367d70"
+  },
+  "playerId": "1627826",
+  "name": "Ivica Zubac",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "11.4",
+    "RPG": "9.1",
+    "APG": "1.4",
+    "PIE": "12.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64728d0191137367d72"
+  },
+  "playerId": "203486",
+  "name": "Mason Plumlee",
+  "team": "LA Clippers",
+  "stats": {
+    "PPG": "5.6",
+    "RPG": "5.1",
+    "APG": "1.1",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64828d0191137367d74"
+  },
+  "playerId": "1641720",
+  "name": "Jalen Hood-Schifino",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "0.6",
+    "APG": "0.4",
+    "PIE": "-1.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64828d0191137367d76"
+  },
+  "playerId": "1626156",
+  "name": "D'Angelo Russell",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "18.0",
+    "RPG": "3.0",
+    "APG": "6.3",
+    "PIE": "10.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64928d0191137367d78"
+  },
+  "playerId": "1629020",
+  "name": "Jarred Vanderbilt",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "5.2",
+    "RPG": "4.8",
+    "APG": "1.2",
+    "PIE": "7.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64a28d0191137367d7a"
+  },
+  "playerId": "203076",
+  "name": "Anthony Davis",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "24.4",
+    "RPG": "12.4",
+    "APG": "3.7",
+    "PIE": "16.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64d28d0191137367d7c"
+  },
+  "playerId": "1629629",
+  "name": "Cam Reddish",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "6.0",
+    "RPG": "2.3",
+    "APG": "1.1",
+    "PIE": "4.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64d28d0191137367d7e"
+  },
+  "playerId": "1629216",
+  "name": "Gabe Vincent",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "5.4",
+    "RPG": "1.0",
+    "APG": "3.0",
+    "PIE": "3.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64f28d0191137367d80"
+  },
+  "playerId": "1631108",
+  "name": "Max Christie",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "4.6",
+    "RPG": "2.3",
+    "APG": "1.0",
+    "PIE": "6.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b64f28d0191137367d82"
+  },
+  "playerId": "1629637",
+  "name": "Jaxson Hayes",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "4.0",
+    "RPG": "2.8",
+    "APG": "0.4",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65028d0191137367d84"
+  },
+  "playerId": "1627752",
+  "name": "Taurean Prince",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "9.0",
+    "RPG": "3.0",
+    "APG": "1.6",
+    "PIE": "5.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65128d0191137367d86"
+  },
+  "playerId": "1630658",
+  "name": "Colin Castleton",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "2.6",
+    "RPG": "1.3",
+    "APG": "0.4",
+    "PIE": "11.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65228d0191137367d88"
+  },
+  "playerId": "1630559",
+  "name": "Austin Reaves",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "15.8",
+    "RPG": "4.1",
+    "APG": "5.5",
+    "PIE": "10.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65328d0191137367d8a"
+  },
+  "playerId": "1628385",
+  "name": "Harry Giles III",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "2.7",
+    "RPG": "1.3",
+    "APG": "0.3",
+    "PIE": "8.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65428d0191137367d8c"
+  },
+  "playerId": "1641721",
+  "name": "Maxwell Lewis",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "0.3",
+    "RPG": "0.1",
+    "APG": "0.2",
+    "PIE": "-1.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65428d0191137367d8e"
+  },
+  "playerId": "2544",
+  "name": "LeBron James",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "25.4",
+    "RPG": "7.2",
+    "APG": "8.0",
+    "PIE": "16.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65528d0191137367d90"
+  },
+  "playerId": "203915",
+  "name": "Spencer Dinwiddie",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "10.7",
+    "RPG": "2.7",
+    "APG": "5.2",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65528d0191137367d92"
+  },
+  "playerId": "1629060",
+  "name": "Rui Hachimura",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "12.8",
+    "RPG": "3.8",
+    "APG": "1.1",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65628d0191137367d94"
+  },
+  "playerId": "1626174",
+  "name": "Christian Wood",
+  "team": "Los Angeles Lakers",
+  "stats": {
+    "PPG": "6.9",
+    "RPG": "5.1",
+    "APG": "1.0",
+    "PIE": "10.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65728d0191137367d96"
+  },
+  "playerId": "1626220",
+  "name": "Royce O'Neale",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "7.8",
+    "RPG": "4.8",
+    "APG": "2.9",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65728d0191137367d98"
+  },
+  "playerId": "1626164",
+  "name": "Devin Booker",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "27.2",
+    "RPG": "4.8",
+    "APG": "6.9",
+    "PIE": "14.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65828d0191137367d9a"
+  },
+  "playerId": "1629006",
+  "name": "Josh Okogie",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "4.9",
+    "RPG": "2.7",
+    "APG": "1.1",
+    "PIE": "6.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65928d0191137367d9c"
+  },
+  "playerId": "203078",
+  "name": "Bradley Beal",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "18.1",
+    "RPG": "4.1",
+    "APG": "5.1",
+    "PIE": "10.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65a28d0191137367d9e"
+  },
+  "playerId": "202738",
+  "name": "Isaiah Thomas",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "--",
+    "RPG": "--",
+    "APG": "1.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65a28d0191137367da0"
+  },
+  "playerId": "1628960",
+  "name": "Grayson Allen",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "13.6",
+    "RPG": "3.8",
+    "APG": "3.1",
+    "PIE": "8.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65b28d0191137367da2"
+  },
+  "playerId": "1627814",
+  "name": "Damion Lee",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "8.2",
+    "RPG": "3.0",
+    "APG": "1.3",
+    "PIE": "8.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65b28d0191137367da4"
+  },
+  "playerId": "1629626",
+  "name": "Bol Bol",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "5.8",
+    "RPG": "3.4",
+    "APG": "0.4",
+    "PIE": "13.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65c28d0191137367da6"
+  },
+  "playerId": "1630688",
+  "name": "Ish Wainright",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "2.3",
+    "RPG": "1.4",
+    "APG": "0.1",
+    "PIE": "9.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65d28d0191137367da8"
+  },
+  "playerId": "1629234",
+  "name": "Drew Eubanks",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "5.4",
+    "RPG": "4.2",
+    "APG": "0.8",
+    "PIE": "10.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65e28d0191137367daa"
+  },
+  "playerId": "203994",
+  "name": "Jusuf Nurkic",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "11.4",
+    "RPG": "11.0",
+    "APG": "3.7",
+    "PIE": "12.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65f28d0191137367dac"
+  },
+  "playerId": "1631223",
+  "name": "David Roddy",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "6.9",
+    "RPG": "3.4",
+    "APG": "1.3",
+    "PIE": "6.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b65f28d0191137367dae"
+  },
+  "playerId": "201569",
+  "name": "Eric Gordon",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "11.9",
+    "RPG": "2.0",
+    "APG": "2.2",
+    "PIE": "7.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66028d0191137367db0"
+  },
+  "playerId": "1629642",
+  "name": "Nassir Little",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "3.6",
+    "RPG": "1.8",
+    "APG": "0.5",
+    "PIE": "7.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66128d0191137367db2"
+  },
+  "playerId": "1628962",
+  "name": "Udoka Azubuike",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "2.5",
+    "RPG": "2.3",
+    "APG": "0.2",
+    "PIE": "7.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66128d0191137367db4"
+  },
+  "playerId": "201152",
+  "name": "Thaddeus Young",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "4.5",
+    "RPG": "3.1",
+    "APG": "1.9",
+    "PIE": "9.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66228d0191137367db6"
+  },
+  "playerId": "201142",
+  "name": "Kevin Durant",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "27.5",
+    "RPG": "6.6",
+    "APG": "5.3",
+    "PIE": "15.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66328d0191137367db8"
+  },
+  "playerId": "1630240",
+  "name": "Saben Lee",
+  "team": "Phoenix Suns",
+  "stats": {
+    "PPG": "3.2",
+    "RPG": "1.5",
+    "APG": "1.4",
+    "PIE": "9.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66428d0191137367dba"
+  },
+  "playerId": "1628370",
+  "name": "Malik Monk",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "15.8",
+    "RPG": "2.9",
+    "APG": "5.3",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66428d0191137367dbc"
+  },
+  "playerId": "201580",
+  "name": "JaVale McGee",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "2.8",
+    "APG": "0.4",
+    "PIE": "12.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66528d0191137367dbe"
+  },
+  "playerId": "1630537",
+  "name": "Chris Duarte",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "2.0",
+    "APG": "0.8",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66528d0191137367dc0"
+  },
+  "playerId": "1628368",
+  "name": "De'Aaron Fox",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "26.7",
+    "RPG": "4.5",
+    "APG": "5.7",
+    "PIE": "12.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66628d0191137367dc2"
+  },
+  "playerId": "1628426",
+  "name": "Sasha Vezenkov",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "5.6",
+    "RPG": "2.5",
+    "APG": "0.4",
+    "PIE": "8.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66628d0191137367dc4"
+  },
+  "playerId": "1628989",
+  "name": "Kevin Huerter",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "10.2",
+    "RPG": "3.5",
+    "APG": "2.6",
+    "PIE": "7.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66728d0191137367dc6"
+  },
+  "playerId": "1627734",
+  "name": "Domantas Sabonis",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "20.0",
+    "RPG": "13.7",
+    "APG": "8.3",
+    "PIE": "17.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66828d0191137367dc8"
+  },
+  "playerId": "1631099",
+  "name": "Keegan Murray",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "14.8",
+    "RPG": "5.4",
+    "APG": "1.6",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66828d0191137367dca"
+  },
+  "playerId": "1630558",
+  "name": "Davion Mitchell",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "4.4",
+    "RPG": "1.1",
+    "APG": "1.7",
+    "PIE": "5.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66928d0191137367dcc"
+  },
+  "playerId": "1630556",
+  "name": "Kessler Edwards",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "0.8",
+    "APG": "0.3",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66928d0191137367dce"
+  },
+  "playerId": "1641771",
+  "name": "Jalen Slawson",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "0.9",
+    "RPG": "1.0",
+    "APG": "0.3",
+    "PIE": "6.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66a28d0191137367dd0"
+  },
+  "playerId": "1641732",
+  "name": "Colby Jones",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "2.0",
+    "RPG": "1.4",
+    "APG": "0.6",
+    "PIE": "3.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66a28d0191137367dd2"
+  },
+  "playerId": "1630222",
+  "name": "Mason Jones",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "4.0",
+    "APG": "4.0",
+    "PIE": "12.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66b28d0191137367dd4"
+  },
+  "playerId": "1631165",
+  "name": "Keon Ellis",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "4.2",
+    "RPG": "1.7",
+    "APG": "1.4",
+    "PIE": "6.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66d28d0191137367dd6"
+  },
+  "playerId": "1630259",
+  "name": "Jordan Ford",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "2.0",
+    "RPG": "0.3",
+    "APG": "0.3",
+    "PIE": "11.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66e28d0191137367dd8"
+  },
+  "playerId": "203084",
+  "name": "Harrison Barnes",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "12.3",
+    "RPG": "2.9",
+    "APG": "1.1",
+    "PIE": "7.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66e28d0191137367dda"
+  },
+  "playerId": "1626168",
+  "name": "Trey Lyles",
+  "team": "Sacramento Kings",
+  "stats": {
+    "PPG": "7.1",
+    "RPG": "4.4",
+    "APG": "1.1",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b66f28d0191137367ddc"
+  },
+  "playerId": "203957",
+  "name": "Dante Exum",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "8.3",
+    "RPG": "2.6",
+    "APG": "2.8",
+    "PIE": "9.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67028d0191137367dde"
+  },
+  "playerId": "1630314",
+  "name": "Brandon Williams",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "2.0",
+    "RPG": "0.6",
+    "APG": "1.0",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67028d0191137367de0"
+  },
+  "playerId": "1630702",
+  "name": "Jaden Hardy",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "7.5",
+    "RPG": "1.7",
+    "APG": "1.6",
+    "PIE": "8.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67128d0191137367de2"
+  },
+  "playerId": "1641726",
+  "name": "Dereck Lively II",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "9.0",
+    "RPG": "6.9",
+    "APG": "1.1",
+    "PIE": "10.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67228d0191137367de4"
+  },
+  "playerId": "203939",
+  "name": "Dwight Powell",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "3.6",
+    "RPG": "3.4",
+    "APG": "1.4",
+    "PIE": "8.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67228d0191137367de6"
+  },
+  "playerId": "1630182",
+  "name": "Josh Green",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "8.5",
+    "RPG": "3.2",
+    "APG": "2.3",
+    "PIE": "6.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67328d0191137367de8"
+  },
+  "playerId": "1630639",
+  "name": "A.J. Lawson",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "3.5",
+    "RPG": "1.0",
+    "APG": "0.4",
+    "PIE": "7.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67428d0191137367dea"
+  },
+  "playerId": "203501",
+  "name": "Tim Hardaway Jr.",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "15.3",
+    "RPG": "3.3",
+    "APG": "1.7",
+    "PIE": "8.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67528d0191137367dec"
+  },
+  "playerId": "202681",
+  "name": "Kyrie Irving",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "25.3",
+    "RPG": "5.1",
+    "APG": "5.3",
+    "PIE": "14.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67528d0191137367dee"
+  },
+  "playerId": "1641788",
+  "name": "Alex Fudge",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "0.5",
+    "APG": "--",
+    "PIE": "-4.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67628d0191137367df0"
+  },
+  "playerId": "1641765",
+  "name": "Olivier-Maxence Prosper",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "2.4",
+    "RPG": "1.8",
+    "APG": "0.6",
+    "PIE": "7.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67728d0191137367df2"
+  },
+  "playerId": "1629655",
+  "name": "Daniel Gafford",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "11.2",
+    "RPG": "7.9",
+    "APG": "1.4",
+    "PIE": "11.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67828d0191137367df4"
+  },
+  "playerId": "1629023",
+  "name": "P.J. Washington",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "12.6",
+    "RPG": "5.4",
+    "APG": "1.9",
+    "PIE": "7.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67828d0191137367df6"
+  },
+  "playerId": "1630535",
+  "name": "Greg Brown III",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "2.5",
+    "RPG": "1.5",
+    "APG": "0.7",
+    "PIE": "4.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67c28d0191137367df8"
+  },
+  "playerId": "1628467",
+  "name": "Maxi Kleber",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "4.4",
+    "RPG": "3.3",
+    "APG": "1.7",
+    "PIE": "5.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67d28d0191137367dfa"
+  },
+  "playerId": "1627884",
+  "name": "Derrick Jones Jr.",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "8.9",
+    "RPG": "3.4",
+    "APG": "1.0",
+    "PIE": "7.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67d28d0191137367dfc"
+  },
+  "playerId": "1629029",
+  "name": "Luka Doncic",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "34.1",
+    "RPG": "9.0",
+    "APG": "9.8",
+    "PIE": "20.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67e28d0191137367dfe"
+  },
+  "playerId": "202693",
+  "name": "Markieff Morris",
+  "team": "Dallas Mavericks",
+  "stats": {
+    "PPG": "2.7",
+    "RPG": "1.5",
+    "APG": "0.6",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67f28d0191137367e00"
+  },
+  "playerId": "1631257",
+  "name": "Jermaine Samuels Jr.",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "1.6",
+    "RPG": "1.0",
+    "APG": "0.2",
+    "PIE": "10.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b67f28d0191137367e02"
+  },
+  "playerId": "1628988",
+  "name": "Aaron Holiday",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "6.6",
+    "RPG": "1.6",
+    "APG": "1.8",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68028d0191137367e04"
+  },
+  "playerId": "1641708",
+  "name": "Amen Thompson",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "8.7",
+    "RPG": "6.0",
+    "APG": "2.3",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68028d0191137367e06"
+  },
+  "playerId": "1629111",
+  "name": "Jock Landale",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "3.6",
+    "RPG": "2.8",
+    "APG": "1.0",
+    "PIE": "8.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68228d0191137367e08"
+  },
+  "playerId": "1630224",
+  "name": "Jalen Green",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "19.5",
+    "RPG": "5.0",
+    "APG": "3.4",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68228d0191137367e0a"
+  },
+  "playerId": "1627832",
+  "name": "Fred VanVleet",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "16.9",
+    "RPG": "3.7",
+    "APG": "8.2",
+    "PIE": "11.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68328d0191137367e0c"
+  },
+  "playerId": "1641715",
+  "name": "Cam Whitmore",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "12.1",
+    "RPG": "3.9",
+    "APG": "0.5",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68428d0191137367e0e"
+  },
+  "playerId": "1630256",
+  "name": "Jae'Sean Tate",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "4.2",
+    "RPG": "3.1",
+    "APG": "1.0",
+    "PIE": "5.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68528d0191137367e10"
+  },
+  "playerId": "1628415",
+  "name": "Dillon Brooks",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "12.9",
+    "RPG": "3.5",
+    "APG": "1.7",
+    "PIE": "6.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68528d0191137367e12"
+  },
+  "playerId": "1631095",
+  "name": "Jabari Smith Jr.",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "13.3",
+    "RPG": "8.5",
+    "APG": "1.5",
+    "PIE": "9.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68628d0191137367e14"
+  },
+  "playerId": "203500",
+  "name": "Steven Adams",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "8.6",
+    "RPG": "11.5",
+    "APG": "2.3",
+    "PIE": "11.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68728d0191137367e16"
+  },
+  "playerId": "1630207",
+  "name": "Nate Hinton",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "2.8",
+    "RPG": "1.1",
+    "APG": "0.5",
+    "PIE": "11.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68728d0191137367e18"
+  },
+  "playerId": "1631106",
+  "name": "Tari Eason",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "9.8",
+    "RPG": "7.0",
+    "APG": "1.2",
+    "PIE": "13.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68828d0191137367e1a"
+  },
+  "playerId": "1631466",
+  "name": "Nate Williams",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "2.6",
+    "RPG": "1.0",
+    "APG": "0.4",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68828d0191137367e1c"
+  },
+  "playerId": "203493",
+  "name": "Reggie Bullock Jr.",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "2.4",
+    "RPG": "1.7",
+    "APG": "0.4",
+    "PIE": "6.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68928d0191137367e1e"
+  },
+  "playerId": "1630578",
+  "name": "Alperen Sengun",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "21.1",
+    "RPG": "9.3",
+    "APG": "5.0",
+    "PIE": "14.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68a28d0191137367e20"
+  },
+  "playerId": "201145",
+  "name": "Jeff Green",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "6.4",
+    "RPG": "2.2",
+    "APG": "0.8",
+    "PIE": "7.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68b28d0191137367e22"
+  },
+  "playerId": "1626246",
+  "name": "Boban Marjanovic",
+  "team": "Houston Rockets",
+  "stats": {
+    "PPG": "2.3",
+    "RPG": "1.9",
+    "APG": "0.3",
+    "PIE": "12.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68b28d0191137367e24"
+  },
+  "playerId": "1641970",
+  "name": "Maozinha Pereira",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "1.5",
+    "APG": "--",
+    "PIE": "-2.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68c28d0191137367e26"
+  },
+  "playerId": "1630692",
+  "name": "Jordan Goodwin",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "5.4",
+    "RPG": "3.3",
+    "APG": "2.4",
+    "PIE": "8.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68c28d0191137367e28"
+  },
+  "playerId": "1630590",
+  "name": "Scotty Pippen Jr.",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "11.1",
+    "RPG": "3.4",
+    "APG": "4.8",
+    "PIE": "12.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68d28d0191137367e2a"
+  },
+  "playerId": "1631222",
+  "name": "Jake LaRavia",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "8.4",
+    "RPG": "3.5",
+    "APG": "1.3",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68e28d0191137367e2c"
+  },
+  "playerId": "1631246",
+  "name": "Vince Williams Jr.",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "10.0",
+    "RPG": "5.6",
+    "APG": "3.4",
+    "PIE": "9.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68f28d0191137367e2e"
+  },
+  "playerId": "1630583",
+  "name": "Santi Aldama",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "11.1",
+    "RPG": "5.8",
+    "APG": "2.3",
+    "PIE": "10.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b68f28d0191137367e30"
+  },
+  "playerId": "1630533",
+  "name": "Ziaire Williams",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "8.2",
+    "RPG": "3.5",
+    "APG": "1.5",
+    "PIE": "7.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69128d0191137367e32"
+  },
+  "playerId": "1628379",
+  "name": "Luke Kennard",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "11.1",
+    "RPG": "2.8",
+    "APG": "3.3",
+    "PIE": "10.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69228d0191137367e34"
+  },
+  "playerId": "1629630",
+  "name": "Ja Morant",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "25.1",
+    "RPG": "5.6",
+    "APG": "8.1",
+    "PIE": "15.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69228d0191137367e36"
+  },
+  "playerId": "1628991",
+  "name": "Jaren Jackson Jr.",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "22.6",
+    "RPG": "5.5",
+    "APG": "2.3",
+    "PIE": "11.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69328d0191137367e38"
+  },
+  "playerId": "1629634",
+  "name": "Brandon Clarke",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "10.0",
+    "RPG": "5.5",
+    "APG": "1.3",
+    "PIE": "13.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69428d0191137367e3a"
+  },
+  "playerId": "1629139",
+  "name": "Yuta Watanabe",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "3.4",
+    "RPG": "1.6",
+    "APG": "0.4",
+    "PIE": "3.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69528d0191137367e3c"
+  },
+  "playerId": "1630217",
+  "name": "Desmond Bane",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "23.9",
+    "RPG": "4.5",
+    "APG": "5.3",
+    "PIE": "12.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69628d0191137367e3e"
+  },
+  "playerId": "201565",
+  "name": "Derrick Rose",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "8.0",
+    "RPG": "1.9",
+    "APG": "3.3",
+    "PIE": "10.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69728d0191137367e40"
+  },
+  "playerId": "1630205",
+  "name": "Lamar Stevens",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "6.1",
+    "RPG": "2.9",
+    "APG": "0.5",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69828d0191137367e42"
+  },
+  "playerId": "1630610",
+  "name": "DeJon Jarreau",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "5.6",
+    "APG": "3.1",
+    "PIE": "9.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69828d0191137367e44"
+  },
+  "playerId": "203935",
+  "name": "Marcus Smart",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "14.5",
+    "RPG": "2.7",
+    "APG": "4.3",
+    "PIE": "8.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69928d0191137367e46"
+  },
+  "playerId": "1641713",
+  "name": "GG Jackson",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "13.4",
+    "RPG": "3.8",
+    "APG": "1.0",
+    "PIE": "9.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69a28d0191137367e48"
+  },
+  "playerId": "1629723",
+  "name": "John Konchar",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "4.3",
+    "RPG": "4.7",
+    "APG": "2.0",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69b28d0191137367e4a"
+  },
+  "playerId": "1641998",
+  "name": "Trey Jemison",
+  "team": "Memphis Grizzlies",
+  "stats": {
+    "PPG": "6.1",
+    "RPG": "4.2",
+    "APG": "0.9",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69b28d0191137367e4c"
+  },
+  "playerId": "1631220",
+  "name": "Dereon Seabron",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "2.3",
+    "RPG": "1.2",
+    "APG": "0.8",
+    "PIE": "6.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69c28d0191137367e4e"
+  },
+  "playerId": "1629627",
+  "name": "Zion Williamson",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "22.6",
+    "RPG": "5.9",
+    "APG": "5.0",
+    "PIE": "14.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69c28d0191137367e50"
+  },
+  "playerId": "203468",
+  "name": "CJ McCollum",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "18.6",
+    "RPG": "4.1",
+    "APG": "4.4",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69d28d0191137367e52"
+  },
+  "playerId": "1630529",
+  "name": "Herbert Jones",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "11.0",
+    "RPG": "3.6",
+    "APG": "2.5",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69d28d0191137367e54"
+  },
+  "playerId": "1630230",
+  "name": "Naji Marshall",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "7.4",
+    "RPG": "3.7",
+    "APG": "2.0",
+    "PIE": "9.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69e28d0191137367e56"
+  },
+  "playerId": "1630700",
+  "name": "Dyson Daniels",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "5.5",
+    "RPG": "3.7",
+    "APG": "2.6",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b69f28d0191137367e58"
+  },
+  "playerId": "1627742",
+  "name": "Brandon Ingram",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "20.9",
+    "RPG": "5.1",
+    "APG": "5.8",
+    "PIE": "12.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a028d0191137367e5a"
+  },
+  "playerId": "1630631",
+  "name": "Jose Alvarado",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "6.9",
+    "RPG": "2.2",
+    "APG": "2.1",
+    "PIE": "8.2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a128d0191137367e5c"
+  },
+  "playerId": "202685",
+  "name": "Jonas Valanciunas",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "12.5",
+    "RPG": "9.2",
+    "APG": "2.1",
+    "PIE": "13.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a228d0191137367e5e"
+  },
+  "playerId": "1626204",
+  "name": "Larry Nance Jr.",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "5.6",
+    "RPG": "5.1",
+    "APG": "1.7",
+    "PIE": "10.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a228d0191137367e60"
+  },
+  "playerId": "1641722",
+  "name": "Jordan Hawkins",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "8.5",
+    "RPG": "2.4",
+    "APG": "1.2",
+    "PIE": "7.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a328d0191137367e62"
+  },
+  "playerId": "1630530",
+  "name": "Trey Murphy III",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "14.0",
+    "RPG": "4.5",
+    "APG": "2.0",
+    "PIE": "10.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a428d0191137367e64"
+  },
+  "playerId": "1630604",
+  "name": "E.J. Liddell",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "0.5",
+    "RPG": "0.6",
+    "APG": "0.1",
+    "PIE": "4.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a428d0191137367e66"
+  },
+  "playerId": "1630792",
+  "name": "Malcolm Hill",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "0.6",
+    "APG": "--",
+    "PIE": "14.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a528d0191137367e68"
+  },
+  "playerId": "1630346",
+  "name": "Matt Ryan",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "6.9",
+    "RPG": "1.8",
+    "APG": "0.8",
+    "PIE": "6.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a628d0191137367e6a"
+  },
+  "playerId": "203469",
+  "name": "Cody Zeller",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "1.9",
+    "RPG": "2.7",
+    "APG": "0.9",
+    "PIE": "7.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a628d0191137367e6c"
+  },
+  "playerId": "1630526",
+  "name": "Jeremiah Robinson-Earl",
+  "team": "New Orleans Pelicans",
+  "stats": {
+    "PPG": "3.4",
+    "RPG": "2.1",
+    "APG": "0.6",
+    "PIE": "9.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a728d0191137367e6e"
+  },
+  "playerId": "1630564",
+  "name": "RaiQuan Gray",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "16.0",
+    "RPG": "9.0",
+    "APG": "7.0",
+    "PIE": "10.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a728d0191137367e70"
+  },
+  "playerId": "1641705",
+  "name": "Victor Wembanyama",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "20.7",
+    "RPG": "10.4",
+    "APG": "3.5",
+    "PIE": "15.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a828d0191137367e72"
+  },
+  "playerId": "1629640",
+  "name": "Keldon Johnson",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "15.8",
+    "RPG": "5.5",
+    "APG": "2.8",
+    "PIE": "9.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6a928d0191137367e74"
+  },
+  "playerId": "1628984",
+  "name": "Devonte' Graham",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "1.3",
+    "APG": "1.4",
+    "PIE": "10.4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6aa28d0191137367e76"
+  },
+  "playerId": "1631110",
+  "name": "Jeremy Sochan",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "11.5",
+    "RPG": "6.3",
+    "APG": "3.5",
+    "PIE": "7.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6ab28d0191137367e78"
+  },
+  "playerId": "1631104",
+  "name": "Blake Wesley",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "4.2",
+    "RPG": "1.3",
+    "APG": "2.6",
+    "PIE": "7.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6ab28d0191137367e7a"
+  },
+  "playerId": "1626224",
+  "name": "Cedi Osman",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "6.6",
+    "RPG": "2.5",
+    "APG": "1.6",
+    "PIE": "7.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6ac28d0191137367e7c"
+  },
+  "playerId": "1631123",
+  "name": "Jamaree Bouyea",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "1.7",
+    "RPG": "1.7",
+    "APG": "1.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6ad28d0191137367e7e"
+  },
+  "playerId": "1631103",
+  "name": "Malaki Branham",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "8.7",
+    "RPG": "2.0",
+    "APG": "2.2",
+    "PIE": "6.3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6ae28d0191137367e80"
+  },
+  "playerId": "1628380",
+  "name": "Zach Collins",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "11.1",
+    "RPG": "5.3",
+    "APG": "2.8",
+    "PIE": "8.8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6af28d0191137367e82"
+  },
+  "playerId": "1630170",
+  "name": "Devin Vassell",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "19.1",
+    "RPG": "3.9",
+    "APG": "4.0",
+    "PIE": "11.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6af28d0191137367e84"
+  },
+  "playerId": "1631321",
+  "name": "Sidy Cissoko",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "1.0",
+    "RPG": "1.0",
+    "APG": "--",
+    "PIE": "5.7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6b028d0191137367e86"
+  },
+  "playerId": "1631230",
+  "name": "Dominick Barlow",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "4.6",
+    "RPG": "3.5",
+    "APG": "1.2",
+    "PIE": "8.9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6b128d0191137367e88"
+  },
+  "playerId": "1629646",
+  "name": "Charles Bassey",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "3.3",
+    "RPG": "4.0",
+    "APG": "1.1",
+    "PIE": "11.6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6b228d0191137367e8a"
+  },
+  "playerId": "1630561",
+  "name": "David Duke Jr.",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "3.7",
+    "RPG": "1.3",
+    "APG": "0.9",
+    "PIE": "5.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6b228d0191137367e8c"
+  },
+  "playerId": "1630577",
+  "name": "Julian Champagnie",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "5.9",
+    "RPG": "2.5",
+    "APG": "1.3",
+    "PIE": "6.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6b328d0191137367e8e"
+  },
+  "playerId": "1630200",
+  "name": "Tre Jones",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "9.9",
+    "RPG": "3.4",
+    "APG": "6.1",
+    "PIE": "11.1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600b6b328d0191137367e90"
+  },
+  "playerId": "1630572",
+  "name": "Sandro Mamukelashvili",
+  "team": "San Antonio Spurs",
+  "stats": {
+    "PPG": "2.6",
+    "RPG": "1.8",
+    "APG": "0.8",
+    "PIE": "10.9"
+  }
+}]
