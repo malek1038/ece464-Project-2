@@ -1,3 +1,4 @@
+# Slight ChatGPT use nothing major, mostly debugging and small adjustments
 import requests
 from bs4 import BeautifulSoup
 import json

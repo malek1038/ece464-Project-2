@@ -1,3 +1,4 @@
+# Slight ChatGPT use nothing major, mostly debugging and small adjustments
 import random
 from dataBase import get_database
 

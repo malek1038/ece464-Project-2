@@ -1,6 +1,7 @@
+# Slight ChatGPT use nothing major, mostly debugging and small adjustments
 import requests
 from bs4 import BeautifulSoup
-from dataBase import get_players_collection  # Ensure dataBase.py is in the same directory
+from dataBase import get_players_collection
 
 def insert_player_stats(player_id):
     retries = 3  # Number of attempts to retry fetching player data
@@ -12,31 +13,32 @@ def insert_player_stats(player_id):
             soup = BeautifulSoup(response.content, 'html.parser')
             title_content = soup.title.string
 
-            # Attempt to split the title and catch exceptions if the expected format is not met
+            # Attempt to split the title and catch if sent to the homepage
             try:
                 player_name, team_name, _ = title_content.split(' | ')
                 
-                # Proceed with data extraction and insertion since the correct page was fetched
+                # Once correct page is found, procceed to extract player stats
                 player_stats = {
                     "playerId": player_id,
                     "name": player_name,
                     "team": team_name,
                     "stats": {}
                 }
-                
+                # Extract player stats from the page
                 stat_divs = soup.find_all("div", class_="PlayerSummary_playerStat__rmEOP")
                 for div in stat_divs:
                     stat_label = div.find("p", class_="PlayerSummary_playerStatLabel__I3TO3").text
                     stat_value = div.find("p", class_="PlayerSummary_playerStatValue___EDg_").text
                     player_stats["stats"][stat_label] = stat_value
                 
+                # Insert the player stats into the database
                 players_collection = get_players_collection()
                 players_collection.insert_one(player_stats)
                 print(f"Inserted stats for {player_name} into the database.")
-                break  # Exit the loop after successful insertion
+                break
                 
             except ValueError as e:
-                # Handle the case where the title split does not return the expected format
+                # Handle the case where we go to the homepage
                 print(f"Attempt {attempt + 1} failed for player ID {player_id}. Retrying...")
                 if attempt == retries - 1:
                     # If this was the last retry, skip this player

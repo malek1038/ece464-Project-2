@@ -1,3 +1,4 @@
+# More chatGPT use in this file, I like to believe nothing I couldnt have done myself. There is more information in the spcific parts of the code.
 import matplotlib.pyplot as plt
 import pandas as pd
 from query import get_database, simulate_game_stats
@@ -94,7 +95,6 @@ def plot_mvp_scores():
     plt.show()
 
 def main_visual():
-    # Example: Plot top 5 players by PPG
     plot_top_players('PPG', 5)
     simulate_and_plot_stats('Dallas Mavericks', num_games=10)
     simulate_and_plot_stats('New York Knicks', num_games=10)
