@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# Example list of team IDs
+# Manually Extracted Team IDs
 team_ids = ["1610612738", "1610612751", "1610612752", "1610612755", "1610612761", "1610612741", "1610612739", "1610612765", "1610612754", "1610612749",
              "1610612737", "1610612766", "1610612748", "1610612753", "1610612764", "1610612743", "1610612750", "1610612760", "1610612757", "1610612762",
                "1610612744", "1610612746", "1610612747", "1610612756", "1610612758", "1610612742", "1610612745", "1610612763", "1610612740", "1610612759"]
@@ -18,10 +18,10 @@ def fetch_player_ids_for_team(team_id):
         
         if script_tag:
             data = json.loads(script_tag.string)  # Load the JSON data from the <script> tag
-            roster = data['props']['pageProps']['team']['roster']
+            roster = data['props']['pageProps']['team']['roster'] # Extract the roster data
             
             for player in roster:
-                player_ids.append(player['PLAYER_ID'])
+                player_ids.append(player['PLAYER_ID']) # Extract the player ID from roster (active players)
                 
     else:
         print(f"Failed to fetch data for team ID {team_id}. Status code: {response.status_code}")
@@ -36,6 +36,6 @@ for team_id in team_ids:
     player_ids = fetch_player_ids_for_team(team_id)
     all_player_ids.extend(player_ids)
 
-# Print the complete list of player IDs
+# Print the complete list of player IDs and length so I can verify we have all (or most) of the active player IDs
 print(all_player_ids)
 print(len(all_player_ids))
